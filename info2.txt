@@ -1,0 +1,1464 @@
+S000;0;Not Significant Trauma;Superficial injury of scalp 
+S001;0;Not Significant Trauma;Contusion of eyelid and periocular area 
+S002;0;Not Significant Trauma;Other superficial injuries of eyelid and periocular area 
+S003;0;Not Significant Trauma;Superficial injury of nose 
+S004;0;Not Significant Trauma;Superficial injury of ear 
+S005;0;Not Significant Trauma;Superficial injury of lip and oral cavity 
+S0050;0;Not Significant Trauma;Superficial injury of internal cheek (TM) 
+S0051;0;Not Significant Trauma;Superficial injury of other parts of mouth ,including tongue (TM) 
+S0052;0;Not Significant Trauma;Superficial injury of lip (TM) 
+S0059;0;Not Significant Trauma;Superficial injury of lip and oral cavity, unspecified (TM) 
+S007;0;Not Significant Trauma;Multiple superficial injuries of head 
+S008;0;Not Significant Trauma;Superficial injury of other parts of head 
+S009;0;Not Significant Trauma;Superficial injury of head, part unspecified 
+S010;0;Not Significant Trauma;Open wound of scalp 
+S011;0;Not Significant Trauma;Open wound of eyelid and periocular area 
+S012;0;Not Significant Trauma;Open wound of nose 
+S013;0;Not Significant Trauma;Open wound of ear 
+S014;0;Not Significant Trauma;Open wound of cheek and temporomandibular area 
+S0140;0;Not Significant Trauma;Open wound of cheek (TM) 
+S0141;0;Not Significant Trauma;Open wound of temporomandibular area (TM) 
+S0147;0;Not Significant Trauma;Open wound of cheek with open wound of temporomandibular area (TM) 
+S015;0;Not Significant Trauma;Open wound of lip and oral cavity 
+S0150;0;Not Significant Trauma;Open wound of oral cavity (TM) 
+S0151;0;Not Significant Trauma;Open wound of lip (TM) 
+S0157;0;Not Significant Trauma;Open wound of oral cavity with open wound of lip (TM) 
+S017;0;Not Significant Trauma;Multiple open wounds of head 
+S018;0;Not Significant Trauma;Open wound of other parts of head 
+S019;0;Not Significant Trauma;Open wound of head, part unspecified 
+S020;0;Not Significant Trauma;Fracture of vault of skull 
+S0200;0;Not Significant Trauma;Fracture of vault of skull: closed 
+S0201;0;Not Significant Trauma;Fracture of vault of skull: open 
+S021;0;Not Significant Trauma;Fracture of base of skull 
+S0210;0;Not Significant Trauma;Fracture of base of skull: closed 
+S0211;0;Not Significant Trauma;Fracture of base of skull: open 
+S022;0;Not Significant Trauma;Fracture of nasal bones 
+S0220;0;Not Significant Trauma;Fracture of nasal bones: closed 
+S0221;0;Not Significant Trauma;Fracture of nasal bones: open 
+S023;0;Not Significant Trauma;Fracture of orbital floor 
+S0230;0;Not Significant Trauma;Fracture of orbital floor: closed 
+S0231;0;Not Significant Trauma;Fracture of orbital floor: open 
+S024;0;Not Significant Trauma;Fracture of malar and maxillary bones 
+S0240;0;Not Significant Trauma;Fracture of malar and maxillary bones: closed 
+S02400;0;Not Significant Trauma;Closed Fracture of maxillary alveolar process (TM) 
+S02401;0;Not Significant Trauma;Closed Fracture of malar bone [zygoma] (TM) 
+S02402;0;Not Significant Trauma;Closed Fracture of maxillary bones (TM) 
+S02407;0;Not Significant Trauma;Multiple closed fracture of malar and maxillary bones (TM) 
+S0241;0;Not Significant Trauma;Fracture of malar and maxillary bones: open 
+S02410;0;Not Significant Trauma;Open Fracture of maxillary alveolar process (TM) 
+S02411;0;Not Significant Trauma;Open Fracture of malar bone [zygoma] (TM) 
+S02412;0;Not Significant Trauma;Open Fracture of maxillary bones (TM) 
+S02417;0;Not Significant Trauma;Multiple open fracture of malar and maxillary bones (TM) 
+S025;0;Not Significant Trauma;Fracture of tooth 
+S0250;0;Not Significant Trauma;Fracture of tooth: closed 
+S02500;0;Not Significant Trauma;Closed Fracture of enamel of tooth only (TM) 
+S02501;0;Not Significant Trauma;Closed Fracture of crown of tooth without pulpal involvement (TM) 
+S02502;0;Not Significant Trauma;Closed Fracture of crown of tooth with pulpal involvement (TM) 
+S02503;0;Not Significant Trauma;Closed Fracture of root of tooth (TM) 
+S02504;0;Not Significant Trauma;Closed Fracture of crown with fracture of root of tooth (TM) 
+S02507;0;Not Significant Trauma;Mutiple closed fractures of teeth (TM) 
+S02509;0;Not Significant Trauma;Closed Fracture of tooth, unspecified (TM) 
+S0251;0;Not Significant Trauma;Fracture of tooth: open 
+S02510;0;Not Significant Trauma;Open Fracture of enamel of tooth only (TM) 
+S02511;0;Not Significant Trauma;Open Fracture of crown of tooth without pulpal involvement (TM) 
+S02512;0;Not Significant Trauma;Open Fracture of crown of tooth with pulpal involvement (TM) 
+S02513;0;Not Significant Trauma;Open Fracture of root of tooth (TM) 
+S02514;0;Not Significant Trauma;Open Fracture of crown with fracture of root of tooth (TM) 
+S02517;0;Not Significant Trauma;Mutiple open fractures of teeth (TM) 
+S02519;0;Not Significant Trauma;Open Fracture of tooth, unspecified (TM) 
+S026;0;Not Significant Trauma;Fracture of mandible 
+S0260;0;Not Significant Trauma;Fracture of mandible: closed 
+S02600;0;Not Significant Trauma;Closed Fracture of alveolar process (TM) 
+S02601;0;Not Significant Trauma;Closed Fracture of body of mandible (TM) 
+S02602;0;Not Significant Trauma;Closed Fracture of condyle (TM) 
+S02603;0;Not Significant Trauma;Closed Fracture of coronoid process (TM) 
+S02604;0;Not Significant Trauma;Closed Fracture of ramus (TM) 
+S02605;0;Not Significant Trauma;Closed Fracture of symphysis (TM) 
+S02606;0;Not Significant Trauma;Closed Fracture of angle (TM) 
+S02607;0;Not Significant Trauma;Multiple closed fractures of mandible (TM) 
+S02609;0;Not Significant Trauma;Closed Fracture of mandible, part unspecified (TM) 
+S0261;0;Not Significant Trauma;Fracture of mandible: open 
+S02610;0;Not Significant Trauma;Open Fracture of alveolar process (TM) 
+S02611;0;Not Significant Trauma;Open Fracture of body of mandible (TM) 
+S02612;0;Not Significant Trauma;Open Fracture of condyle (TM) 
+S02613;0;Not Significant Trauma;Open Fracture of coronoid process (TM) 
+S02614;0;Not Significant Trauma;Open Fracture of ramus (TM) 
+S02615;0;Not Significant Trauma;Open Fracture of symphysis (TM) 
+S02616;0;Not Significant Trauma;Open Fracture of angle (TM) 
+S02617;0;Not Significant Trauma;Multiple open fractures of mandible (TM) 
+S02619;0;Not Significant Trauma;Open Fracture of mandible, part unspecified (TM) 
+S027;0;Not Significant Trauma;Multiple fractures involving skull and facial bones 
+S0270;0;Not Significant Trauma;Multiple fractures involving skull and facial bones: closed 
+S0271;0;Not Significant Trauma;Multiple fractures involving skull and facial bones: open 
+S028;0;Not Significant Trauma;Fractures of other skull and facial bones 
+S0280;0;Not Significant Trauma;Fractures of other skull and facial bones: closed 
+S0281;0;Not Significant Trauma;Fractures of other skull and facial bones: open 
+S029;0;Not Significant Trauma;Fracture of skull or facial bones, part unspecified 
+S0290;0;Not Significant Trauma;Fracture of skull or facial bones, part unspecified: closed 
+S0291;0;Not Significant Trauma;Fracture of skull or facial bones, part unspecified: open 
+S030;0;Not Significant Trauma;Dislocation of jaw 
+S031;0;Not Significant Trauma;Dislocation of septal cartilage of nose 
+S032;0;Not Significant Trauma;Dislocation of tooth 
+S0320;0;Not Significant Trauma;Luxation of tooth (TM) 
+S0321;0;Not Significant Trauma;Intrusion or extrusion of tooth (TM) 
+S0322;0;Not Significant Trauma;Avulsion of tooth [exarticulation] (TM) 
+S0329;0;Not Significant Trauma;Dislocation of tooth, unspecified (TM) 
+S033;0;Not Significant Trauma;Dislocation of other and unspecified parts of head 
+S034;0;Not Significant Trauma;Sprain and strain of jaw 
+S035;0;Not Significant Trauma;Sprain and strain of joints and ligaments of other and unspecified parts of head 
+S040;0;Not Significant Trauma;Injury of optic nerve and pathways 
+S041;0;Not Significant Trauma;Injury of oculomotor nerve 
+S042;0;Not Significant Trauma;Injury of trochlear nerve 
+S043;0;Not Significant Trauma;Injury of trigeminal nerve 
+S044;0;Not Significant Trauma;Injury of abducent nerve 
+S045;0;Not Significant Trauma;Injury of facial nerve 
+S046;0;Not Significant Trauma;Injury of acoustic nerve 
+S047;0;Not Significant Trauma;Injury of accessory nerve 
+S048;0;Not Significant Trauma;Injury of other cranial nerves 
+S0480;0;Not Significant Trauma;Injury of olfactory nerve (TM) 
+S0481;0;Not Significant Trauma;Injury of glossopharyngeal nerve (TM) 
+S0482;0;Not Significant Trauma;Injury of vagus nerve (TM) 
+S0483;0;Not Significant Trauma;Injury of hypoglossal nerve (TM) 
+S049;0;Not Significant Trauma;Injury of unspecified cranial nerve 
+S050;0;Not Significant Trauma;Injury of conjunctiva and corneal abrasion without mention of foreign body 
+S051;0;Not Significant Trauma;Contusion of eyeball and orbital tissues 
+S052;0;Not Significant Trauma;Ocular laceration and rupture with prolapse or loss of intraocular tissue 
+S053;0;Not Significant Trauma;Ocular laceration without prolapse or loss of intraocular tissue 
+S054;0;Not Significant Trauma;Penetrating wound of orbit with or without foreign body 
+S055;0;Not Significant Trauma;Penetrating wound of eyeball with foreign body 
+S056;0;Not Significant Trauma;Penetrating wound of eyeball without foreign body 
+S057;0;Not Significant Trauma;Avulsion of eye 
+S058;0;Not Significant Trauma;Other injuries of eye and orbit 
+S059;0;Not Significant Trauma;Injury of eye and orbit, unspecified 
+S060;0;Not Significant Trauma;Concussion 
+S0600;0;Not Significant Trauma;Concussion: without open intracranial wound 
+S0601;0;Not Significant Trauma;Concussion: with open intracranial wound 
+S061;1;Significant Head Trauma;Traumatic cerebral oedema 
+S0610;1;Significant Head Trauma;Traumatic cerebral oedema: without open intracranial wound 
+S0611;1;Significant Head Trauma;Traumatic cerebral oedema: with open intracranial wound 
+S062;1;Significant Head Trauma;Diffuse brain injury 
+S0620;1;Significant Head Trauma;Diffuse brain injury: without open intracranial wound 
+S0621;1;Significant Head Trauma;Diffuse brain injury: with open intracranial wound 
+S063;1;Significant Head Trauma;Focal brain injury 
+S0630;1;Significant Head Trauma;Focal brain injury: without open intracranial wound 
+S0631;1;Significant Head Trauma;Focal brain injury: with open intracranial wound 
+S064;1;Significant Head Trauma;Epidural haemorrhage 
+S0640;1;Significant Head Trauma;Epidural haemorrhage: without open intracranial wound 
+S0641;1;Significant Head Trauma;Epidural haemorrhage: with open intracranial wound 
+S065;1;Significant Head Trauma;Traumatic subdural haemorrhage 
+S0650;1;Significant Head Trauma;Traumatic subdural haemorrhage: without open intracranial wound 
+S0651;1;Significant Head Trauma;Traumatic subdural haemorrhage: with open intracranial wound 
+S066;1;Significant Head Trauma;Traumatic subarachnoid haemorrhage 
+S0660;1;Significant Head Trauma;Traumatic subarachnoid haemorrhage: without open intracranial wound 
+S0661;1;Significant Head Trauma;Traumatic subarachnoid haemorrhage: with open intracranial wound 
+S067;1;Significant Head Trauma;Intracranial injury with prolonged coma 
+S0670;1;Significant Head Trauma;Intracranial injury with prolonged coma: without open intracranial wound 
+S0671;1;Significant Head Trauma;Intracranial injury with prolonged coma: with open intracranial wound 
+S068;1;Significant Head Trauma;Other intracranial injuries 
+S0680;1;Significant Head Trauma;Other intracranial injuries: without open intracranial wound 
+S0681;1;Significant Head Trauma;Other intracranial injuries: with open intracranial wound 
+S069;0;Not Significant Trauma;Intracranial injury, unspecified 
+S0690;0;Not Significant Trauma;Intracranial injury, unspecified: without open intracranial wound 
+S0691;0;Not Significant Trauma;Intracranial injury, unspecified: with open intracranial wound 
+S070;0;Not Significant Trauma;Crushing injury of face 
+S071;0;Not Significant Trauma;Crushing injury of skull 
+S078;0;Not Significant Trauma;Crushing injury of other parts of head 
+S079;0;Not Significant Trauma;Crushing injury of head, part unspecified 
+S080;0;Not Significant Trauma;Avulsion of scalp 
+S081;0;Not Significant Trauma;Traumatic amputation of ear 
+S088;0;Not Significant Trauma;Traumatic amputation of other parts of head 
+S089;0;Not Significant Trauma;Traumatic amputation of unspecified part of head 
+S090;0;Not Significant Trauma;Injury of blood vessels of head, not elsewhere classified 
+S091;0;Not Significant Trauma;Injury of muscle and tendon of head 
+S092;0;Not Significant Trauma;Traumatic rupture of ear drum 
+S097;0;Not Significant Trauma;Multiple injuries of head 
+S098;0;Not Significant Trauma;Other specified injuries of head 
+S099;0;Not Significant Trauma;Unspecified injury of head 
+S100;0;Not Significant Trauma;Contusion of throat 
+S101;0;Not Significant Trauma;Other and unspecified superficial injuries of throat 
+S107;0;Not Significant Trauma;Multiple superficial injuries of neck 
+S108;0;Not Significant Trauma;Superficial injury of other parts of neck 
+S109;0;Not Significant Trauma;Superficial injury of neck, part unspecified 
+S110;2;Significant Chest Trauma;Open wound involving larynx and trachea 
+S111;0;Not Significant Trauma;Open wound involving thyroid gland 
+S112;2;Significant Chest Trauma;Open wound involving pharynx and cervical oesophagus 
+S117;0;Not Significant Trauma;Multiple open wounds of neck 
+S118;0;Not Significant Trauma;Open wound of other parts of neck 
+S119;0;Not Significant Trauma;Open wound of neck, part unspecified 
+S120;0;Not Significant Trauma;Fracture of first cervical vertebra 
+S1200;0;Not Significant Trauma;Fracture of first cervical vertebra: closed 
+S1201;0;Not Significant Trauma;Fracture of first cervical vertebra: open 
+S121;0;Not Significant Trauma;Fracture of second cervical vertebra 
+S1210;0;Not Significant Trauma;Fracture of second cervical vertebra: closed 
+S1211;0;Not Significant Trauma;Fracture of second cervical vertebra: open 
+S122;0;Not Significant Trauma;Fracture of other specified cervical vertebra 
+S1220;0;Not Significant Trauma;Fracture of other specified cervical vertebra: closed 
+S12200;0;Not Significant Trauma;Closed fracture of 3rd cervical vertebra (TM) 
+S12201;0;Not Significant Trauma;Closed Fracture of 4th cervical vertebra (TM) 
+S12202;0;Not Significant Trauma;Closed Fracture of 5th cervical vertebra (TM) 
+S12203;0;Not Significant Trauma;Closed Fracture of 6th cervical vertebra (TM) 
+S12204;0;Not Significant Trauma;Closed Fracture of 7th cervical vertebra (TM) 
+S12208;0;Not Significant Trauma;Closed Fracture of other cervical vertebra (TM) 
+S1221;0;Not Significant Trauma;Fracture of other specified cervical vertebra: open 
+S12210;0;Not Significant Trauma;Open fracture of 3rd cervical vertebra (TM) 
+S12211;0;Not Significant Trauma;Open Fracture of 4th cervical vertebra (TM) 
+S12212;0;Not Significant Trauma;Open Fracture of 5th cervical vertebra (TM) 
+S12213;0;Not Significant Trauma;Open Fracture of 6th cervical vertebra (TM) 
+S12214;0;Not Significant Trauma;Open Fracture of 7th cervical vertebra (TM) 
+S12218;0;Not Significant Trauma;Open Fracture of other cervical vertebra (TM) 
+S127;0;Not Significant Trauma;Multiple fractures of cervical spine 
+S1270;0;Not Significant Trauma;Multiple fractures of cervical spine: closed 
+S1271;0;Not Significant Trauma;Multiple fractures of cervical spine: open 
+S128;0;Not Significant Trauma;Fracture of other parts of neck 
+S1280;0;Not Significant Trauma;Fracture of other parts of neck: closed 
+S1281;0;Not Significant Trauma;Fracture of other parts of neck: open 
+S129;0;Not Significant Trauma;Fracture of neck, part unspecified 
+S1290;0;Not Significant Trauma;Fracture of neck, part unspecified: closed 
+S1291;0;Not Significant Trauma;Fracture of neck, part unspecified: open 
+S130;6;Significant Trauma of the Pelvis or Spine;Traumatic rupture of cervical intervertebral disc 
+S131;6;Significant Trauma of the Pelvis or Spine;Dislocation of cervical vertebra 
+S1310;6;Significant Trauma of the Pelvis or Spine;Dislocation of C1/C2 vertebra (TM) 
+S1311;6;Significant Trauma of the Pelvis or Spine;Dislocation of C2/C3 vertebra (TM) 
+S1312;6;Significant Trauma of the Pelvis or Spine;Dislocation of C3/C4 vertebra (TM) 
+S1313;6;Significant Trauma of the Pelvis or Spine;Dislocation of C4/C5 vertebra (TM) 
+S1314;6;Significant Trauma of the Pelvis or Spine;Dislocation of C5/C6 vertebra (TM) 
+S1315;6;Significant Trauma of the Pelvis or Spine;Dislocation of C6/C7 vertebra (TM) 
+S1316;6;Significant Trauma of the Pelvis or Spine;Dislocation of C7/T1 vertebra (TM) 
+S1318;6;Significant Trauma of the Pelvis or Spine;Dislocation of other,cervical vertebra (TM) 
+S1319;6;Significant Trauma of the Pelvis or Spine;Dislocation of cervical vertebra, part unspecified (TM) 
+S132;6;Significant Trauma of the Pelvis or Spine;Dislocation of other and unspecified parts of neck 
+S133;6;Significant Trauma of the Pelvis or Spine;Multiple dislocations of neck 
+S134;0;Not Significant Trauma;Sprain and strain of cervical spine 
+S135;0;Not Significant Trauma;Sprain and strain of thyroid region 
+S136;0;Not Significant Trauma;Sprain and strain of joints and ligaments of other and unspecified parts of neck 
+S140;6;Significant Trauma of the Pelvis or Spine;Concussion and oedema of cervical spinal cord 
+S141;6;Significant Trauma of the Pelvis or Spine;Other and unspecified injuries of cervical spinal cord 
+S142;0;Not Significant Trauma;Injury of nerve root of cervical spine 
+S143;7;Significant Trauma of the Upper Limb;Injury of brachial plexus 
+S144;0;Not Significant Trauma;Injury of peripheral nerves of neck 
+S145;0;Not Significant Trauma;Injury of cervical sympathetic nerves 
+S146;0;Not Significant Trauma;Injury of other and unspecified nerves of neck 
+S150;1;Significant Head Trauma;Injury of carotid artery 
+S151;1;Significant Head Trauma;Injury of vertebral artery 
+S152;1;Significant Head Trauma;Injury of external jugular vein 
+S153;1;Significant Head Trauma;Injury of internal jugular vein 
+S157;1;Significant Head Trauma;Injury of multiple blood vessels at neck level 
+S158;0;Not Significant Trauma;Injury of other blood vessels at neck level 
+S159;0;Not Significant Trauma;Injury of unspecified blood vessel at neck level 
+S16;0;Not Significant Trauma;Injury of muscle and tendon at neck level 
+S170;0;Not Significant Trauma;Crushing injury of larynx and trachea 
+S178;0;Not Significant Trauma;Crushing injury of other parts of neck 
+S179;0;Not Significant Trauma;Crushing injury of neck, part unspecified 
+S18;0;Not Significant Trauma;Traumatic amputation at neck level 
+S197;0;Not Significant Trauma;Multiple injuries of neck 
+S198;0;Not Significant Trauma;Other specified injuries of neck 
+S199;0;Not Significant Trauma;Unspecified injury of neck 
+S200;0;Not Significant Trauma;Contusion of breast 
+S201;0;Not Significant Trauma;Other and unspecified superficial injuries of breast 
+S202;0;Not Significant Trauma;Contusion of thorax 
+S203;0;Not Significant Trauma;Other superficial injuries of front wall of thorax 
+S204;0;Not Significant Trauma;Other superficial injuries of back wall of thorax 
+S207;0;Not Significant Trauma;Multiple superficial injuries of thorax 
+S208;0;Not Significant Trauma;Superficial injury of other and unspecified parts of thorax 
+S210;0;Not Significant Trauma;Open wound of breast 
+S211;0;Not Significant Trauma;Open wound of front wall of thorax 
+S212;0;Not Significant Trauma;Open wound of back wall of thorax 
+S217;0;Not Significant Trauma;Multiple open wounds of thoracic wall 
+S218;0;Not Significant Trauma;Open wound of other parts of thorax 
+S219;0;Not Significant Trauma;Open wound of thorax, part unspecified 
+S220;0;Not Significant Trauma;Fracture of thoracic vertebra 
+S2200;0;Not Significant Trauma;Fracture of thoracic vertebra: closed 
+S22000;0;Not Significant Trauma;Closed Fracture of thoracic vertebra, compression type (TM) 
+S22001;0;Not Significant Trauma;Closed Fracture of thoracic vertebra, burst type (TM) 
+S22002;0;Not Significant Trauma;Closed Fracture of thoracic vertebra, seat-belt type (TM) 
+S22003;0;Not Significant Trauma;Closed Fracture of thoracic vertebra, flexionrotation type (TM) 
+S22004;0;Not Significant Trauma;Closed Fracture of thoracic vertebra, shear type (TM) 
+S22005;0;Not Significant Trauma;Closed Fracture of thoracic vertebra, flexiondistraction type (TM) 
+S22009;0;Not Significant Trauma;Closed Fracture of thoracic vertebra, mechanism unspecified (TM) 
+S2201;0;Not Significant Trauma;Fracture of thoracic vertebra: open 
+S22010;0;Not Significant Trauma;Open Fracture of thoracic vertebra, compression type (TM) 
+S22011;0;Not Significant Trauma;Open Fracture of thoracic vertebra, burst type (TM) 
+S22012;0;Not Significant Trauma;Open Fracture of thoracic vertebra, seat-belt type (TM) 
+S22013;0;Not Significant Trauma;Open Fracture of thoracic vertebra, flexion-rotation type (TM) 
+S22014;0;Not Significant Trauma;Open Fracture of thoracic vertebra, shear type (TM) 
+S22015;0;Not Significant Trauma;Open Fracture of thoracic vertebra, flexiondistraction type (TM) 
+S22019;0;Not Significant Trauma;Open Fracture of thoracic vertebra, mechanism unspecified (TM) 
+S221;0;Not Significant Trauma;Multiple fractures of thoracic spine 
+S2210;0;Not Significant Trauma;Multiple fractures of thoracic spine: closed 
+S22100;0;Not Significant Trauma;Multiple closed fractures of thoracic spine, T1-T6 level (TM) 
+S22101;0;Not Significant Trauma;Multiple closed fractures of thoracic spine, T7-T12 level (TM) 
+S22102;0;Not Significant Trauma;Multiple closed fractures of thoracic and lumbar spine [T and L spine] (TM) 
+S22108;0;Not Significant Trauma;Multiple closed fractures of thoracic spine, other specified (TM) 
+S22109;0;Not Significant Trauma;Multiple closed fractures of thoracic spine, unspecified (TM) 
+S2211;0;Not Significant Trauma;Multiple fractures of thoracic spine: open 
+S22110;0;Not Significant Trauma;Multiple open fractures of thoracic spine, T1-T6 level (TM) 
+S22111;0;Not Significant Trauma;Multiple open fractures of thoracic spine, T7-T12 level (TM) 
+S22112;0;Not Significant Trauma;Multiple open fractures of thoracic and lumbar spine [T and L spine] (TM) 
+S22118;0;Not Significant Trauma;Multiple open fractures of thoracic spine, other specified (TM) 
+S22119;0;Not Significant Trauma;Multiple open fractures of thoracic spine, unspecified (TM) 
+S222;0;Not Significant Trauma;Fracture of sternum 
+S2220;0;Not Significant Trauma;Fracture of sternum: closed 
+S2221;0;Not Significant Trauma;Fracture of sternum: open 
+S223;0;Not Significant Trauma;Fracture of rib 
+S2230;0;Not Significant Trauma;Fracture of rib: closed 
+S2231;0;Not Significant Trauma;Fracture of rib: open 
+S224;0;Not Significant Trauma;Multiple fractures of ribs 
+S2240;0;Not Significant Trauma;Multiple fractures of ribs: closed 
+S2241;2;Significant Chest Trauma;Multiple fractures of ribs: open 
+S225;2;Significant Chest Trauma;Flail chest 
+S2250;2;Significant Chest Trauma;Flail chest: closed 
+S2251;2;Significant Chest Trauma;Flail chest: open 
+S228;0;Not Significant Trauma;Fracture of other parts of bony thorax 
+S2280;0;Not Significant Trauma;Fracture of other parts of bony thorax: closed 
+S2281;0;Not Significant Trauma;Fracture of other parts of bony thorax: open 
+S229;0;Not Significant Trauma;Fracture of bony thorax, part unspecified 
+S2290;0;Not Significant Trauma;Fracture of bony thorax, part unspecified: closed 
+S2291;0;Not Significant Trauma;Fracture of bony thorax, part unspecified: open 
+S230;0;Not Significant Trauma;Traumatic rupture of thoracic intervertebral disc 
+S231;0;Not Significant Trauma;Dislocation of thoracic vertebra 
+S232;0;Not Significant Trauma;Dislocation of other and unspecified parts of thorax 
+S233;0;Not Significant Trauma;Sprain and strain of thoracic spine 
+S234;0;Not Significant Trauma;Sprain and strain of ribs and sternum 
+S235;0;Not Significant Trauma;Sprain and strain of other and unspecified parts of thorax 
+S240;6;Significant Trauma of the Pelvis or Spine;Concussion and oedema of thoracic spinal cord 
+S241;6;Significant Trauma of the Pelvis or Spine;Other and unspecified injuries of thoracic spinal cord 
+S242;0;Not Significant Trauma;Injury of nerve root of thoracic spine 
+S243;6;Significant Trauma of the Pelvis or Spine;Injury of peripheral nerves of thorax 
+S244;0;Not Significant Trauma;Injury of thoracic sympathetic nerves 
+S245;6;Significant Trauma of the Pelvis or Spine;Injury of other nerves of thorax 
+S246;0;Not Significant Trauma;Injury of unspecified nerve of thorax 
+S250;2;Significant Chest Trauma;Injury of thoracic aorta 
+S251;2;Significant Chest Trauma;Injury of innominate or subclavian artery 
+S252;2;Significant Chest Trauma;Injury of superior vena cava 
+S253;2;Significant Chest Trauma;Injury of innominate or subclavian vein 
+S254;2;Significant Chest Trauma;Injury of pulmonary blood vessels 
+S255;0;Not Significant Trauma;Injury of intercostal blood vessels 
+S257;2;Significant Chest Trauma;Injury of multiple blood vessels of thorax 
+S258;0;Not Significant Trauma;Injury of other blood vessels of thorax 
+S259;0;Not Significant Trauma;Injury of unspecified blood vessel of thorax 
+S260;2;Significant Chest Trauma;Injury of heart with haemopericardium 
+S2600;2;Significant Chest Trauma;Injury of heart with haemopericardium: without open wound into thoracic cavity 
+S2601;2;Significant Chest Trauma;Injury of heart with haemopericardium: with open wound into thoracic cavity 
+S268;2;Significant Chest Trauma;Other injuries of heart 
+S2680;2;Significant Chest Trauma;Other injuries of heart: without open wound into thoracic cavity 
+S2681;2;Significant Chest Trauma;Other injuries of heart: with open wound into thoracic cavity 
+S269;2;Significant Chest Trauma;Injury of heart, unspecified 
+S2690;2;Significant Chest Trauma;Injury of heart, unspecified: without open wound into thoracic cavity 
+S2691;2;Significant Chest Trauma;Injury of heart, unspecified: with open wound into thoracic cavity 
+S270;2;Significant Chest Trauma;Traumatic pneumothorax 
+S2700;2;Significant Chest Trauma;Traumatic pneumothorax: without open wound into thoracic cavity 
+S2701;2;Significant Chest Trauma;Traumatic pneumothorax: with open wound into thoracic cavity 
+S271;2;Significant Chest Trauma;Traumatic haemothorax 
+S2710;2;Significant Chest Trauma;Traumatic haemothorax: without open wound into thoracic cavity 
+S2711;2;Significant Chest Trauma;Traumatic haemothorax: with open wound into thoracic cavity 
+S272;2;Significant Chest Trauma;Traumatic haemopneumothorax 
+S2720;2;Significant Chest Trauma;Traumatic haemopneumothorax: without open wound into thoracic cavity 
+S2721;2;Significant Chest Trauma;Traumatic haemopneumothorax: with open wound into thoracic cavity 
+S273;2;Significant Chest Trauma;Other injuries of lung 
+S2730;2;Significant Chest Trauma;Other injuries of lung: without open wound into thoracic cavity 
+S2731;2;Significant Chest Trauma;Other injuries of lung: with open wound into thoracic cavity 
+S274;2;Significant Chest Trauma;Injury of bronchus 
+S2740;2;Significant Chest Trauma;Injury of bronchus: without open wound into thoracic cavity 
+S2741;2;Significant Chest Trauma;Injury of bronchus: with open wound into thoracic cavity 
+S275;2;Significant Chest Trauma;Injury of thoracic trachea 
+S2750;2;Significant Chest Trauma;Injury of thoracic trachea: without open wound into thoracic cavity 
+S2751;2;Significant Chest Trauma;Injury of thoracic trachea: with open wound into thoracic cavity 
+S276;2;Significant Chest Trauma;Injury of pleura 
+S2760;2;Significant Chest Trauma;Injury of pleura: without open wound into thoracic cavity 
+S2761;2;Significant Chest Trauma;Injury of pleura: with open wound into thoracic cavity 
+S277;2;Significant Chest Trauma;Multiple injuries of intrathoracic organs 
+S2770;2;Significant Chest Trauma;Multiple injuries of intrathoracic organs: without open wound into thoracic cavity 
+S2771;2;Significant Chest Trauma;Multiple injuries of intrathoracic organs: with open wound into thoracic cavity 
+S278;2;Significant Chest Trauma;Injury of other specified intrathoracic organs 
+S2780;2;Significant Chest Trauma;Injury of other specified intrathoracic organs: without open wound into thoracic cavity 
+S2781;2;Significant Chest Trauma;Injury of other specified intrathoracic organs: with open wound into thoracic cavity 
+S279;0;Not Significant Trauma;Injury of unspecified intrathoracic organ 
+S2790;0;Not Significant Trauma;Injury of unspecified intrathoracic organ: without open wound into thoracic cavity 
+S2791;0;Not Significant Trauma;Injury of unspecified intrathoracic organ: with open wound into thoracic cavity 
+S280;0;Not Significant Trauma;Crushed chest 
+S281;2;Significant Chest Trauma;Traumatic amputation of part of thorax 
+S290;0;Not Significant Trauma;Injury of muscle and tendon at thorax level 
+S297;0;Not Significant Trauma;Multiple injuries of thorax 
+S298;0;Not Significant Trauma;Other specified injuries of thorax 
+S299;0;Not Significant Trauma;Unspecified injury of thorax 
+S300;0;Not Significant Trauma;Contusion of lower back and pelvis 
+S301;0;Not Significant Trauma;Contusion of abdominal wall 
+S302;0;Not Significant Trauma;Contusion of external genital organs 
+S302;0;Not Significant Trauma;Contusion of external genital organs 
+S307;0;Not Significant Trauma;Multiple superficial injuries of abdomen, lower back and pelvis 
+S308;0;Not Significant Trauma;Other superficial injuries of abdomen, lower back and pelvis 
+S309;0;Not Significant Trauma;Superficial injury of abdomen, lower back and pelvis, part unspecified 
+S310;0;Not Significant Trauma;Open wound of lower back and pelvis 
+S311;0;Not Significant Trauma;Open wound of abdominal wall 
+S312;0;Not Significant Trauma;Open wound of penis 
+S313;0;Not Significant Trauma;Open wound of scrotum and testes 
+S314;0;Not Significant Trauma;Open wound of vagina and vulva 
+S315;0;Not Significant Trauma;Open wound of other and unspecified external genital organs 
+S315;0;Not Significant Trauma;Open wound of other and unspecified external genital organs 
+S317;0;Not Significant Trauma;Multiple open wounds of abdomen, lower back and pelvis 
+S318;0;Not Significant Trauma;Open wound of other and unspecified parts of abdomen 
+S320;0;Not Significant Trauma;Fracture of lumbar vertebra 
+S3200;0;Not Significant Trauma;Fracture of lumbar vertebra: closed 
+S32000;0;Not Significant Trauma;Closed Fracture of lumbar vertebra, compression type (TM) 
+S32001;0;Not Significant Trauma;Closed Fracture of lumbar vertebra, burst type (TM) 
+S32002;0;Not Significant Trauma;Closed Fracture of lumbar vertebra, seat-belt type (TM) 
+S32003;0;Not Significant Trauma;Closed Fracture of lumbar vertebra, flexionrotation type (TM) 
+S32004;0;Not Significant Trauma;Closed Fracture of lumbar vertebra, shear type (TM) 
+S32005;0;Not Significant Trauma;Closed Fracture of lumbar vertebra, flexiondistraction type (TM) 
+S32009;0;Not Significant Trauma;Closed Fracture of lumbar vertebra, mechanism unspecified (TM) 
+S3201;0;Not Significant Trauma;Fracture of lumbar vertebra: open 
+S32010;0;Not Significant Trauma;Open Fracture of lumbar vertebra, compression type (TM) 
+S32011;0;Not Significant Trauma;Open Fracture of lumbar vertebra, burst type (TM) 
+S32012;0;Not Significant Trauma;Open Fracture of lumbar vertebra, seat-belt type (TM) 
+S32013;0;Not Significant Trauma;Open Fracture of lumbar vertebra, flexion-rotation type (TM) 
+S32014;0;Not Significant Trauma;Open Fracture of lumbar vertebra, shear type (TM) 
+S32015;0;Not Significant Trauma;Open Fracture of lumbar vertebra, flexiondistraction type (TM) 
+S32019;0;Not Significant Trauma;Open Fracture of lumbar vertebra, mechanism unspecified (TM) 
+S321;6;Significant Trauma of the Pelvis or Spine;Fracture of sacrum 
+S3210;6;Significant Trauma of the Pelvis or Spine;Fracture of sacrum: closed 
+S3211;6;Significant Trauma of the Pelvis or Spine;Fracture of sacrum: open 
+S322;0;Not Significant Trauma;Fracture of coccyx 
+S3220;0;Not Significant Trauma;Fracture of coccyx: closed 
+S3221;0;Not Significant Trauma;Fracture of coccyx: open 
+S323;6;Significant Trauma of the Pelvis or Spine;Fracture of ilium 
+S3230;6;Significant Trauma of the Pelvis or Spine;Fracture of ilium: closed 
+S3231;6;Significant Trauma of the Pelvis or Spine;Fracture of ilium: open 
+S324;6;Significant Trauma of the Pelvis or Spine;Fracture of acetabulum 
+S3240;6;Significant Trauma of the Pelvis or Spine;Fracture of acetabulum: closed 
+S3241;6;Significant Trauma of the Pelvis or Spine;Fracture of acetabulum: open 
+S325;6;Significant Trauma of the Pelvis or Spine;Fracture of pubis 
+S3250;6;Significant Trauma of the Pelvis or Spine;Fracture of pubis: closed 
+S3251;6;Significant Trauma of the Pelvis or Spine;Fracture of pubis: open 
+S32600;0;Not Significant Trauma;Closed Fracture of pelvis, stable type (TM) 
+S32601;6;Significant Trauma of the Pelvis or Spine;Closed Fracture of pelvis, rotary unstable type (TM) 
+S32602;6;Significant Trauma of the Pelvis or Spine;Closed Fracture of pelvis, vertical shear type (TM) 
+S32608;0;Not Significant Trauma;Closed Fracture of pelvis, other types (TM) 
+S32609;0;Not Significant Trauma;Closed Fracture of pelvis, unspecified type (TM) 
+S32610;6;Significant Trauma of the Pelvis or Spine;Open Fracture of pelvis, stable type (TM) 
+S32611;6;Significant Trauma of the Pelvis or Spine;Open Fracture of pelvis, rotary unstable type (TM) 
+S32612;6;Significant Trauma of the Pelvis or Spine;Open Fracture of pelvis, vertical shear type (TM) 
+S32618;6;Significant Trauma of the Pelvis or Spine;Open Fracture of pelvis, other types (TM) 
+S32619;6;Significant Trauma of the Pelvis or Spine;Open Fracture of pelvis, unspecified type (TM) 
+S327;0;Not Significant Trauma;Multiple fractures of lumbar spine and pelvis 
+S3270;0;Not Significant Trauma;Multiple fractures of lumbar spine and pelvis: closed 
+S3271;6;Significant Trauma of the Pelvis or Spine;Multiple fractures of lumbar spine and pelvis: open 
+S328;0;Not Significant Trauma;Fracture of other and unspecified parts of lumbar spine and pelvis 
+S3280;0;Not Significant Trauma;Fracture of other and unspecified parts of lumbar spine and pelvis: closed 
+S3281;6;Significant Trauma of the Pelvis or Spine;Fracture of other and unspecified parts of lumbar spine and pelvis: open 
+S330;0;Not Significant Trauma;Traumatic rupture of lumbar intervertebral disc 
+S331;0;Not Significant Trauma;Dislocation of lumbar vertebra 
+S332;0;Not Significant Trauma;Dislocation of sacroiliac and sacrococcygeal joint 
+S333;0;Not Significant Trauma;Dislocation of other and unspecified parts of lumbar spine and pelvis 
+S334;0;Not Significant Trauma;Traumatic rupture of symphysis pubis 
+S335;0;Not Significant Trauma;Sprain and strain of lumbar spine 
+S336;0;Not Significant Trauma;Sprain and strain of sacroiliac joint 
+S337;0;Not Significant Trauma;Sprain and strain of other and unspecified parts of lumbar spine and pelvis 
+S340;6;Significant Trauma of the Pelvis or Spine;Concussion and oedema of lumbar spinal cord 
+S341;6;Significant Trauma of the Pelvis or Spine;Other injury of lumbar spinal cord 
+S342;0;Not Significant Trauma;Injury of nerve root of lumbar and sacral spine 
+S343;6;Significant Trauma of the Pelvis or Spine;Injury of cauda equina 
+S344;6;Significant Trauma of the Pelvis or Spine;Injury of lumbosacral plexus 
+S345;0;Not Significant Trauma;Injury of lumbar, sacral and pelvic sympathetic nerves 
+S346;0;Not Significant Trauma;Injury of peripheral nerve(s) of abdomen, lower back and pelvis 
+S348;0;Not Significant Trauma;Injury of other and unspecified nerves at abdomen, lower back and pelvis level 
+S350;3;Significant Abdominal Trauma;Injury of abdominal aorta 
+S351;3;Significant Abdominal Trauma;Injury of inferior vena cava 
+S352;3;Significant Abdominal Trauma;Injury of coeliac or mesenteric artery 
+S353;3;Significant Abdominal Trauma;Injury of portal or splenic vein 
+S354;3;Significant Abdominal Trauma;Injury of renal blood vessels 
+S355;3;Significant Abdominal Trauma;Injury of iliac blood vessels 
+S357;3;Significant Abdominal Trauma;Injury of multiple blood vessels at abdomen, lower back and pelvis level 
+S358;0;Not Significant Trauma;Injury of other blood vessels at abdomen, lower back and pelvis level 
+S359;0;Not Significant Trauma;Injury of unspecified blood vessel at abdomen, lower back and pelvis level 
+S360;3;Significant Abdominal Trauma;Injury of spleen 
+S3600;3;Significant Abdominal Trauma;Injury of spleen: without open wound into cavity 
+S3601;3;Significant Abdominal Trauma;Injury of spleen: with open wound into cavity 
+S361;3;Significant Abdominal Trauma;Injury of liver or gallbladder 
+S3610;3;Significant Abdominal Trauma;Injury of liver or gallbladder: without open wound into cavity 
+S3611;3;Significant Abdominal Trauma;Injury of liver or gallbladder: with open wound into cavity 
+S362;3;Significant Abdominal Trauma;Injury of pancreas 
+S3620;3;Significant Abdominal Trauma;Injury of pancreas: without open wound into cavity 
+S3621;3;Significant Abdominal Trauma;Injury of pancreas: with open wound into cavity 
+S363;3;Significant Abdominal Trauma;Injury of stomach 
+S3630;3;Significant Abdominal Trauma;Injury of stomach: without open wound into cavity 
+S3631;3;Significant Abdominal Trauma;Injury of stomach: with open wound into cavity 
+S364;3;Significant Abdominal Trauma;Injury of small intestine 
+S3640;3;Significant Abdominal Trauma;Injury of small intestine: without open wound into cavity 
+S3641;3;Significant Abdominal Trauma;Injury of small intestine: with open wound into cavity 
+S365;3;Significant Abdominal Trauma;Injury of colon 
+S3650;3;Significant Abdominal Trauma;Injury of colon: without open wound into cavity 
+S3651;3;Significant Abdominal Trauma;Injury of colon: with open wound into cavity 
+S366;3;Significant Abdominal Trauma;Injury of rectum 
+S3660;3;Significant Abdominal Trauma;Injury of rectum: without open wound into cavity 
+S3661;3;Significant Abdominal Trauma;Injury of rectum: with open wound into cavity 
+S367;3;Significant Abdominal Trauma;Injury of multiple intra-abdominal organs 
+S3670;3;Significant Abdominal Trauma;Injury of multiple intra-abdominal organs: without open wound into cavity 
+S3671;3;Significant Abdominal Trauma;Injury of multiple intra-abdominal organs: with open wound into cavity 
+S368;3;Significant Abdominal Trauma;Injury of other intra-abdominal organs 
+S3680;3;Significant Abdominal Trauma;Injury of other intra-abdominal organs: without open wound into cavity 
+S3681;3;Significant Abdominal Trauma;Injury of other intra-abdominal organs: with open wound into cavity 
+S369;0;Not Significant Trauma;Injury of unspecified intra-abdominal organ 
+S3690;0;Not Significant Trauma;Injury of unspecified intra-abdominal organ: without open wound into cavity 
+S3691;0;Not Significant Trauma;Injury of unspecified intra-abdominal organ: with open wound into cavity 
+S370;4;Significant Kidney Trauma;Injury of kidney 
+S3700;4;Significant Kidney Trauma;Injury of kidney: without open wound into cavity 
+S3701;4;Significant Kidney Trauma;Injury of kidney: with open wound into cavity 
+S371;5;Significant Trauma of the Urinary System;Injury of ureter 
+S3710;5;Significant Trauma of the Urinary System;Injury of ureter: without open wound into cavity 
+S3711;5;Significant Trauma of the Urinary System;Injury of ureter: with open wound into cavity 
+S372;5;Significant Trauma of the Urinary System;Injury of bladder 
+S3720;5;Significant Trauma of the Urinary System;Injury of bladder: without open wound into cavity 
+S3721;5;Significant Trauma of the Urinary System;Injury of bladder: with open wound into cavity 
+S373;5;Significant Trauma of the Urinary System;Injury of urethra 
+S3730;5;Significant Trauma of the Urinary System;Injury of urethra: without open wound into cavity 
+S3731;5;Significant Trauma of the Urinary System;Injury of urethra: with open wound into cavity 
+S374;5;Significant Trauma of the Urinary System;Injury of ovary 
+S3740;5;Significant Trauma of the Urinary System;Injury of ovary: without open wound into cavity 
+S3741;5;Significant Trauma of the Urinary System;Injury of ovary: with open wound into cavity 
+S375;5;Significant Trauma of the Urinary System;Injury of fallopian tube 
+S3750;5;Significant Trauma of the Urinary System;Injury of fallopian tube: without open wound into cavity 
+S3751;5;Significant Trauma of the Urinary System;Injury of fallopian tube: with open wound into cavity 
+S376;5;Significant Trauma of the Urinary System;Injury of uterus 
+S3760;5;Significant Trauma of the Urinary System;Injury of uterus: without open wound into cavity 
+S3761;5;Significant Trauma of the Urinary System;Injury of uterus: with open wound into cavity 
+S377;5;Significant Trauma of the Urinary System;Injury of multiple pelvic organs 
+S3770;5;Significant Trauma of the Urinary System;Injury of multiple pelvic organs: without open wound into cavity 
+S3770;5;Significant Trauma of the Urinary System;Injury of multiple pelvic organs: without open wound into cavity 
+S3771;5;Significant Trauma of the Urinary System;Injury of multiple pelvic organs: with open wound into cavity 
+S3771;5;Significant Trauma of the Urinary System;Injury of multiple pelvic organs: with open wound into cavity 
+S378;5;Significant Trauma of the Urinary System;Injury of other pelvic organs 
+S3780;5;Significant Trauma of the Urinary System;Injury of other pelvic organs: without open wound into cavity 
+S3780;5;Significant Trauma of the Urinary System;Injury of other pelvic organs: without open wound into cavity 
+S3781;5;Significant Trauma of the Urinary System;Injury of other pelvic organs: with open wound into cavity 
+S3781;5;Significant Trauma of the Urinary System;Injury of other pelvic organs: with open wound into cavity 
+S379;0;Not Significant Trauma;Injury of unspecified pelvic organ 
+S3790;0;Not Significant Trauma;Injury of unspecified pelvic organ: without open wound into cavity 
+S3790;0;Not Significant Trauma;Injury of unspecified pelvic organ: without open wound into cavity 
+S3791;0;Not Significant Trauma;Injury of unspecified pelvic organ: with open wound into cavity 
+S3791;0;Not Significant Trauma;Injury of unspecified pelvic organ: with open wound into cavity 
+S380;3;Significant Abdominal Trauma;Crushing injury of external genital organs 
+S380;3;Significant Abdominal Trauma;Crushing injury of external genital organs 
+S381;0;Not Significant Trauma;Crushing injury of other and unspecified parts of abdomen, lower back and pelvis 
+S382;6;Significant Trauma of the Pelvis or Spine;Traumatic amputation of external genital organs 
+S382;6;Significant Trauma of the Pelvis or Spine;Traumatic amputation of external genital organs 
+S383;0;Not Significant Trauma;Traumatic amputation of other and unspecified parts of abdomen, lower back and pelvis 
+S390;0;Not Significant Trauma;Injury of muscle and tendon of abdomen, lower back and pelvis 
+S396;0;Not Significant Trauma;Injury of intra-abdominal organ(s) with pelvic organ(s) 
+S397;0;Not Significant Trauma;Other multiple injuries of abdomen, lower back and pelvis 
+S398;0;Not Significant Trauma;Other specified injuries of abdomen, lower back and pelvis 
+S399;0;Not Significant Trauma;Unspecified injury of abdomen, lower back and pelvis 
+S400;0;Not Significant Trauma;Contusion of shoulder and upper arm 
+S407;0;Not Significant Trauma;Multiple superficial injuries of shoulder and upper arm 
+S408;0;Not Significant Trauma;Other superficial injuries of shoulder and upper arm 
+S4080;0;Not Significant Trauma;Abrasion of shoulder and arm (TM) 
+S4081;0;Not Significant Trauma;Blister of shoulder and arm (TM) 
+S4082;0;Not Significant Trauma;Insect bite of shoulder and arm (TM) 
+S4083;0;Not Significant Trauma;Superficial foreign body of shoulder and arm (TM) 
+S4088;0;Not Significant Trauma;Other superficial injuries of shoulder and arm (TM) 
+S409;0;Not Significant Trauma;Superficial injury of shoulder and upper arm, unspecified 
+S410;0;Not Significant Trauma;Open wound of shoulder 
+S411;0;Not Significant Trauma;Open wound of upper arm 
+S417;0;Not Significant Trauma;Multiple open wounds of shoulder and upper arm 
+S418;0;Not Significant Trauma;Open wound of other and unspecified parts of shoulder girdle 
+S420;0;Not Significant Trauma;Fracture of clavicle 
+S4200;0;Not Significant Trauma;Fracture of clavicle: closed 
+S42000;0;Not Significant Trauma;Closed Fracture of clavicle, sternal end (TM) 
+S42001;0;Not Significant Trauma;Closed Fracture of clavicle, shaft (TM) 
+S42002;0;Not Significant Trauma;Closed Fracture of clavicle, acromial end (TM) 
+S42007;0;Not Significant Trauma;Closed Fracture of clavicle, multiple fractures (TM) 
+S42009;0;Not Significant Trauma;Closed Fracture of clavicle, unspecified part (TM) 
+S4201;0;Not Significant Trauma;Fracture of clavicle: open 
+S42010;0;Not Significant Trauma;Open Fracture of clavicle, sternal end (TM) 
+S42011;0;Not Significant Trauma;Open Fracture of clavicle, shaft (TM) 
+S42012;0;Not Significant Trauma;Open Fracture of clavicle, acromial end (TM) 
+S42017;0;Not Significant Trauma;Open Fracture of clavicle, multiple fractures (TM) 
+S42019;0;Not Significant Trauma;Open Fracture of clavicle, unspecified part (TM) 
+S421;0;Not Significant Trauma;Fracture of scapula 
+S4210;0;Not Significant Trauma;Fracture of scapula: closed 
+S42100;0;Not Significant Trauma;Closed Fracture of scapula, body (TM) 
+S42101;0;Not Significant Trauma;Closed Fracture of scapula, acromion process (TM) 
+S42102;0;Not Significant Trauma;Closed Fracture of scapula, coracoid (TM) 
+S42103;0;Not Significant Trauma;Closed Fracture of scapula, glenoid and neck of scapula (TM) 
+S42107;0;Not Significant Trauma;Closed Fracture of scapula, multiple fractures (TM) 
+S42109;0;Not Significant Trauma;Closed Fracture of scapula, unspecified part (TM) 
+S4211;0;Not Significant Trauma;Fracture of scapula: open 
+S42110;0;Not Significant Trauma;Open Fracture of scapula, body (TM) 
+S42111;0;Not Significant Trauma;Open Fracture of scapula, acromion process (TM) 
+S42112;0;Not Significant Trauma;Open Fracture of scapula, coracoid (TM) 
+S42113;0;Not Significant Trauma;Open Fracture of scapula, glenoid and neck of scapula (TM) 
+S42117;0;Not Significant Trauma;Open Fracture of scapula, multiple fractures (TM) 
+S42119;0;Not Significant Trauma;Open Fracture of scapula, unspecified part (TM) 
+S422;0;Not Significant Trauma;Fracture of upper end of humerus 
+S4220;0;Not Significant Trauma;Fracture of upper end of humerus: closed 
+S42200;0;Not Significant Trauma;Closed Fracture of proximal humerus, nondisplaced (TM) 
+S42201;0;Not Significant Trauma;Closed Fracture of proximal humerus, 2 parts (TM) 
+S42202;0;Not Significant Trauma;Closed Fracture of proximal humerus, 3 parts (TM) 
+S42203;0;Not Significant Trauma;Closed Fracture of proximal humerus, 4 parts (TM) 
+S42204;0;Not Significant Trauma;Closed Fracture of proximal humerus, with articular involvement (TM) 
+S42205;0;Not Significant Trauma;Closed Fracture of epiphysis of proximal humerus (TM) 
+S42208;0;Not Significant Trauma;Closed Fracture of proximal humerus, others (TM) 
+S42209;0;Not Significant Trauma;Closed Fracture of proximal humerus, unspecified (TM) 
+S4221;7;Significant Trauma of the Upper Limb;Fracture of upper end of humerus: open 
+S42210;7;Significant Trauma of the Upper Limb;Open Fracture of proximal humerus, non-displaced (TM) 
+S42211;7;Significant Trauma of the Upper Limb;Open Fracture of proximal humerus, 2 parts (TM) 
+S42212;7;Significant Trauma of the Upper Limb;Open Fracture of proximal humerus, 3 parts (TM) 
+S42213;7;Significant Trauma of the Upper Limb;Open Fracture of proximal humerus, 4 parts (TM) 
+S42214;7;Significant Trauma of the Upper Limb;Open Fracture of proximal humerus, with articular involvement (TM) 
+S42215;7;Significant Trauma of the Upper Limb;Open Fracture of epiphysis of proximal humerus (TM) 
+S42218;7;Significant Trauma of the Upper Limb;Open Fracture of proximal humerus, others (TM) 
+S42219;7;Significant Trauma of the Upper Limb;Open Fracture of proximal humerus, unspecified (TM) 
+S423;0;Not Significant Trauma;Fracture of shaft of humerus 
+S4230;0;Not Significant Trauma;Fracture of shaft of humerus: closed 
+S42300;0;Not Significant Trauma;Closed Fracture of shaft of humerus, simple fracture (TM) 
+S42301;0;Not Significant Trauma;Closed Fracture of shaft of humerus, butterfly fracture (TM) 
+S42302;0;Not Significant Trauma;Closed Fracture of shaft of humerus, comminuted fracture (TM) 
+S42307;0;Not Significant Trauma;Multiple closed fractures of shaft of humerus (TM) 
+S42309;0;Not Significant Trauma;Closed Fracture of shaft of humerus, unspecified (TM) 
+S4231;7;Significant Trauma of the Upper Limb;Fracture of shaft of humerus: open 
+S42310;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of humerus, simple fracture (TM) 
+S42311;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of humerus, butterfly fracture (TM) 
+S42312;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of humerus, comminuted fracture (TM) 
+S42317;7;Significant Trauma of the Upper Limb;Multiple open fractures of shaft of humerus (TM) 
+S42319;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of humerus, unspecified (TM) 
+S424;0;Not Significant Trauma;Fracture of lower end of humerus 
+S4240;0;Not Significant Trauma;Fracture of lower end of humerus: closed 
+S42400;0;Not Significant Trauma;Closed Fracture of distal humerus, supracondylar (TM) 
+S42401;0;Not Significant Trauma;Closed Fracture of distal humerus, lateral condyle (TM) 
+S42402;0;Not Significant Trauma;Closed Fracture of distal humerus, medial condyle (TM) 
+S42403;0;Not Significant Trauma;Closed Fracture of distal humerus, other parts of condyle and epicondyle (TM) 
+S42404;0;Not Significant Trauma;Closed Fracture of distal humerus, T-shape intraarticular fracture (TM) 
+S42405;0;Not Significant Trauma;Closed Fracture of distal humerus, multifragment intraarticular fracture (TM) 
+S42406;0;Not Significant Trauma;Closed Fracture of physis and apophysis of distal humerus (TM) 
+S42407;0;Not Significant Trauma;Multiple closed fractures of distal humerus (TM) 
+S42408;0;Not Significant Trauma;Closed Fracture of distal humerus, others (TM) 
+S42409;0;Not Significant Trauma;Closed Fracture of distal humerus, unspecified (TM) 
+S4241;7;Significant Trauma of the Upper Limb;Fracture of lower end of humerus: open 
+S42410;7;Significant Trauma of the Upper Limb;Open Fracture of distal humerus, supracondylar (TM) 
+S42411;7;Significant Trauma of the Upper Limb;Open Fracture of distal humerus, lateral condyle (TM) 
+S42412;7;Significant Trauma of the Upper Limb;Open Fracture of distal humerus, medial condyle (TM) 
+S42413;7;Significant Trauma of the Upper Limb;Open Fracture of distal humerus, other parts of condyle and epicondyle (TM) 
+S42414;7;Significant Trauma of the Upper Limb;Open Fracture of distal humerus, T-shape intraarticular fracture (TM) 
+S42415;7;Significant Trauma of the Upper Limb;Open Fracture of distal humerus, multifragment intraarticular fracture (TM) 
+S42416;7;Significant Trauma of the Upper Limb;Open Fracture of physis and apophysis of distal humerus (TM) 
+S42417;7;Significant Trauma of the Upper Limb;Multiple open fractures of distal humerus (TM) 
+S42418;7;Significant Trauma of the Upper Limb;Open Fracture of distal humerus, others (TM) 
+S42419;7;Significant Trauma of the Upper Limb;Open Fracture of distal humerus, unspecified (TM) 
+S427;0;Not Significant Trauma;Multiple fractures of clavicle, scapula and humerus 
+S4270;0;Not Significant Trauma;Multiple fractures of clavicle, scapula and humerus: closed 
+S4271;7;Significant Trauma of the Upper Limb;Multiple fractures of clavicle, scapula and humerus: open 
+S428;0;Not Significant Trauma;Fracture of other parts of shoulder and upper arm 
+S4280;0;Not Significant Trauma;Fracture of other parts of shoulder and upper arm: closed 
+S4281;7;Significant Trauma of the Upper Limb;Fracture of other parts of shoulder and upper arm: open 
+S429;0;Not Significant Trauma;Fracture of shoulder girdle, part unspecified 
+S4290;0;Not Significant Trauma;Fracture of shoulder girdle, part unspecified: closed 
+S4291;7;Significant Trauma of the Upper Limb;Fracture of shoulder girdle, part unspecified: open 
+S430;0;Not Significant Trauma;Dislocation of shoulder joint 
+S4300;0;Not Significant Trauma;Dislocation of shoulder joint, anterior (TM) 
+S4301;0;Not Significant Trauma;Dislocation of shoulder joint, posterior (TM) 
+S4302;0;Not Significant Trauma;Dislocation of shoulder joint, inferior (TM) 
+S4308;0;Not Significant Trauma;Dislocation of shoulder joint, other (TM) 
+S4309;0;Not Significant Trauma;Dislocation of shoulder joint, unspecified (TM) 
+S431;0;Not Significant Trauma;Dislocation of acromioclavicular joint 
+S432;0;Not Significant Trauma;Dislocation of sternoclavicular joint 
+S433;0;Not Significant Trauma;Dislocation of other and unspecified parts of shoulder girdle 
+S434;0;Not Significant Trauma;Sprain and strain of shoulder joint 
+S435;0;Not Significant Trauma;Sprain and strain of acromioclavicular joint 
+S436;0;Not Significant Trauma;Sprain and strain of sternoclavicular joint 
+S437;0;Not Significant Trauma;Sprain and strain of other and unspecified parts of shoulder girdle 
+S440;7;Significant Trauma of the Upper Limb;Injury of ulnar nerve at upper arm level 
+S441;7;Significant Trauma of the Upper Limb;Injury of median nerve at upper arm level 
+S442;7;Significant Trauma of the Upper Limb;Injury of radial nerve at upper arm level 
+S443;7;Significant Trauma of the Upper Limb;Injury of axillary nerve 
+S444;0;Not Significant Trauma;Injury of musculocutaneous nerve 
+S445;0;Not Significant Trauma;Injury of cutaneous sensory nerve at shoulder and upper arm level 
+S447;0;Not Significant Trauma;Injury of multiple nerves at shoulder and upper arm level 
+S448;0;Not Significant Trauma;Injury of other nerves at shoulder and upper arm level 
+S449;0;Not Significant Trauma;Injury of unspecified nerve at shoulder and upper arm level 
+S450;7;Significant Trauma of the Upper Limb;Injury of axillary artery 
+S451;7;Significant Trauma of the Upper Limb;Injury of brachial artery 
+S452;7;Significant Trauma of the Upper Limb;Injury of axillary or brachial vein 
+S453;0;Not Significant Trauma;Injury of superficial vein at shoulder and upper arm level 
+S457;0;Not Significant Trauma;Injury of multiple blood vessels at shoulder and upper arm level 
+S458;0;Not Significant Trauma;Injury of other blood vessels at shoulder and upper arm level 
+S459;0;Not Significant Trauma;Injury of unspecified blood vessel at shoulder and upper arm level 
+S460;0;Not Significant Trauma;Injury of muscle(s) and tendon(s) of the rotator cuff of shoulder 
+S461;0;Not Significant Trauma;Injury of muscle and tendon of long head of biceps 
+S462;0;Not Significant Trauma;Injury of muscle and tendon of other parts of biceps 
+S463;0;Not Significant Trauma;Injury of muscle and tendon of triceps 
+S467;0;Not Significant Trauma;Injury of multiple muscles and tendons at shoulder and upper arm level 
+S468;0;Not Significant Trauma;Injury of other muscles and tendons at shoulder and upper arm level 
+S469;0;Not Significant Trauma;Injury of unspecified muscle and tendon at shoulder and upper arm level 
+S47;0;Not Significant Trauma;Crushing injury of shoulder and upper arm 
+S480;7;Significant Trauma of the Upper Limb;Traumatic amputation at shoulder joint 
+S481;7;Significant Trauma of the Upper Limb;Traumatic amputation at level between shoulder and elbow 
+S489;7;Significant Trauma of the Upper Limb;Traumatic amputation of shoulder and upper arm, level unspecified 
+S497;0;Not Significant Trauma;Multiple injuries of shoulder and upper arm 
+S498;0;Not Significant Trauma;Other specified injuries of shoulder and upper arm 
+S499;0;Not Significant Trauma;Unspecified injury of shoulder and upper arm 
+S500;0;Not Significant Trauma;Contusion of elbow 
+S501;0;Not Significant Trauma;Contusion of other and unspecified parts of forearm 
+S507;0;Not Significant Trauma;Multiple superficial injuries of forearm 
+S508;0;Not Significant Trauma;Other superficial injuries of forearm 
+S5080;0;Not Significant Trauma;Abrasion of elbow and forearm (TM) 
+S5081;0;Not Significant Trauma;Blister of elbow and forearm (TM) 
+S5082;0;Not Significant Trauma;Insect bite of elbow and forearm (TM) 
+S5083;0;Not Significant Trauma;Superficial foreign body of elbow and forearm (TM) 
+S5088;0;Not Significant Trauma;Other superficial injuries of elbow and forearm (TM) 
+S509;0;Not Significant Trauma;Superficial injury of forearm, unspecified 
+S510;0;Not Significant Trauma;Open wound of elbow 
+S511;0;Not Significant Trauma;Open wound of forearm (TM) 
+S517;0;Not Significant Trauma;Multiple open wounds of forearm 
+S518;0;Not Significant Trauma;Open wound of other parts of forearm 
+S519;0;Not Significant Trauma;Open wound of forearm, part unspecified 
+S520;0;Not Significant Trauma;Fracture of upper end of ulna 
+S5200;0;Not Significant Trauma;Fracture of upper end of ulna: closed 
+S52000;0;Not Significant Trauma;Closed Fracture of proximal ulna, olecranon (TM) 
+S52001;0;Not Significant Trauma;Closed Fracture of proximal ulna, coronoid process (TM) 
+S52002;0;Not Significant Trauma;Closed Fracture of proximal ulna, with dislocation of radial head (TM) 
+S52003;0;Not Significant Trauma;Closed Fracture of epiphysis of proximal ulna (TM) 
+S52007;0;Not Significant Trauma;Closed Fracture of proximal ulna, multiple fracture (TM) 
+S52008;0;Not Significant Trauma;Closed Fracture of proximal ulna, others (TM) 
+S52009;0;Not Significant Trauma;Closed Fracture of proximal ulna, unspecified (TM) 
+S5201;7;Significant Trauma of the Upper Limb;Fracture of upper end of ulna: open 
+S52010;7;Significant Trauma of the Upper Limb;Open Fracture of proximal ulna, olecranon (TM) 
+S52011;7;Significant Trauma of the Upper Limb;Open Fracture of proximal ulna, coronoid process (TM) 
+S52012;7;Significant Trauma of the Upper Limb;Open Fracture of proximal ulna, with dislocation of radial head (TM) 
+S52013;7;Significant Trauma of the Upper Limb;Open Fracture of epiphysis of proximal ulna (TM) 
+S52017;7;Significant Trauma of the Upper Limb;Open Fracture of proximal ulna, multiple fracture (TM) 
+S52018;7;Significant Trauma of the Upper Limb;Open Fracture of proximal ulna, others (TM) 
+S52019;7;Significant Trauma of the Upper Limb;Open Fracture of proximal ulna, unspecified (TM) 
+S521;0;Not Significant Trauma;Fracture of upper end of radius 
+S5210;0;Not Significant Trauma;Fracture of upper end of radius: closed 
+S52100;0;Not Significant Trauma;Closed Fracture of head of radius (TM) 
+S52101;0;Not Significant Trauma;Closed Fracture of neck of radius (TM) 
+S52102;0;Not Significant Trauma;Closed Fracture of epiphysis of upper end of radius (TM) 
+S52107;0;Not Significant Trauma;Closed Fracture of upper end of radius, multiple fractures (TM) 
+S52108;0;Not Significant Trauma;Closed Fracture of upper end of radius, others (TM) 
+S52109;0;Not Significant Trauma;Closed Fracture of upper end of radius, unspecified (TM) 
+S5211;7;Significant Trauma of the Upper Limb;Fracture of upper end of radius: open 
+S52110;7;Significant Trauma of the Upper Limb;Open Fracture of head of radius (TM) 
+S52111;7;Significant Trauma of the Upper Limb;Open Fracture of neck of radius (TM) 
+S52112;7;Significant Trauma of the Upper Limb;Open Fracture of epiphysis of upper end of radius (TM) 
+S52117;7;Significant Trauma of the Upper Limb;Open Fracture of upper end of radius, multiple fractures (TM) 
+S52118;7;Significant Trauma of the Upper Limb;Open Fracture of upper end of radius, others (TM) 
+S52119;7;Significant Trauma of the Upper Limb;Open Fracture of upper end of radius, unspecified (TM) 
+S522;0;Not Significant Trauma;Fracture of shaft of ulna 
+S5220;0;Not Significant Trauma;Fracture of shaft of ulna: closed 
+S52200;0;Not Significant Trauma;Closed Fracture of shaft of ulna, simple fracture (TM) 
+S52201;0;Not Significant Trauma;Closed Fracture of shaft of ulna, butterfly fracture (TM) 
+S52202;0;Not Significant Trauma;Closed Fracture of shaft of ulna, comminuted fracture (TM) 
+S52203;0;Not Significant Trauma;Closed Fracture of shaft of ulna, with dislocation of radial head (TM) 
+S52207;0;Not Significant Trauma;Closed Fracture of shaft of ulna, bifocal and segmental and multiple fractures (TM) 
+S52209;0;Not Significant Trauma;Closed Fracture of shaft of ulna, unspecified (TM) 
+S5221;7;Significant Trauma of the Upper Limb;Fracture of shaft of ulna: open 
+S52210;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of ulna, simple fracture (TM) 
+S52211;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of ulna, butterfly fracture (TM) 
+S52212;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of ulna, comminuted fracture (TM) 
+S52213;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of ulna, with dislocation of radial head (TM) 
+S52217;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of ulna, bifocal and segmental and multiple fractures (TM) 
+S52219;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of ulna, unspecified (TM) 
+S523;0;Not Significant Trauma;Fracture of shaft of radius 
+S5230;0;Not Significant Trauma;Fracture of shaft of radius: closed 
+S52300;0;Not Significant Trauma;Closed Fracture of shaft of radius, simple fracture (TM) 
+S52301;0;Not Significant Trauma;Closed Fracture of shaft of radius, butterfly fracture (TM) 
+S52302;0;Not Significant Trauma;Closed Fracture of shaft of radius, comminuted fracture (TM) 
+S52303;0;Not Significant Trauma;Closed Fracture of shaft of radius, with dislocation of head of ulna (TM) 
+S52307;0;Not Significant Trauma;Closed fracture of shaft of radius, bifocal and segmental and multiple fractures (TM) 
+S52309;0;Not Significant Trauma;Closed Fracture of shaft of radius, unspecified (TM) 
+S5231;7;Significant Trauma of the Upper Limb;Fracture of shaft of radius: open 
+S52310;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of radius, simple fracture (TM) 
+S52311;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of radius, butterfly fracture (TM) 
+S52312;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of radius, comminuted fracture (TM) 
+S52313;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of radius, with dislocation of head of ulna (TM) 
+S52317;7;Significant Trauma of the Upper Limb;Open fracture of shaft of radius, bifocal and segmental and multiple fractures (TM) 
+S52319;7;Significant Trauma of the Upper Limb;Open Fracture of shaft of radius, unspecified (TM) 
+S524;0;Not Significant Trauma;Fracture of the shafts of both ulna and radius 
+S5240;0;Not Significant Trauma;Fracture of the shafts of both ulna and radius: closed 
+S5241;7;Significant Trauma of the Upper Limb;Fracture of the shafts of both ulna and radius: open 
+S525;0;Not Significant Trauma;Fracture of the lower end of radius 
+S5250;0;Not Significant Trauma;Fracture of the lower end of radius: closed 
+S52500;0;Not Significant Trauma;Closed Fracture of distal radius, extraarticular with dorsal angulation (TM) 
+S52501;0;Not Significant Trauma;Closed Fracture of distal radius, extraarticular with volar angulation (TM) 
+S52502;0;Not Significant Trauma;Closed Fracture of distal radius, partial intraarticular (TM) 
+S52503;0;Not Significant Trauma;Closed Fracture of distal radius, complete intraarticular (TM) 
+S52504;0;Not Significant Trauma;Closed Fracture of epiphysis of distal radius (TM) 
+S52507;0;Not Significant Trauma;Closed Fracture of distal radius, multiple fractures (TM) 
+S52508;0;Not Significant Trauma;Closed Fracture of distal radius, others (TM) 
+S52509;0;Not Significant Trauma;Closed Fracture of distal radius, unspecified (TM) 
+S5251;7;Significant Trauma of the Upper Limb;Fracture of the lower end of radius: open 
+S52510;7;Significant Trauma of the Upper Limb;Open Fracture of distal radius, extraarticular with dorsal angulation (TM) 
+S52511;7;Significant Trauma of the Upper Limb;Open Fracture of distal radius, extraarticular with volar angulation (TM) 
+S52512;7;Significant Trauma of the Upper Limb;Open Fracture of distal radius, partial intraarticular (TM) 
+S52513;7;Significant Trauma of the Upper Limb;Open Fracture of distal radius, complete intraarticular (TM) 
+S52514;7;Significant Trauma of the Upper Limb;Open Fracture of epiphysis of distal radius (TM) 
+S52517;7;Significant Trauma of the Upper Limb;Open Fracture of distal radius, multiple fractures (TM) 
+S52518;7;Significant Trauma of the Upper Limb;Open Fracture of distal radius, others (TM) 
+S52519;7;Significant Trauma of the Upper Limb;Open Fracture of distal radius, unspecified (TM) 
+S526;0;Not Significant Trauma;Fracture of the lower end of both ulna and radius 
+S5260;0;Not Significant Trauma;Fracture of the lower end of both ulna and radius: closed 
+S5261;7;Significant Trauma of the Upper Limb;Fracture of the lower end of both ulna and radius: open 
+S527;0;Not Significant Trauma;Multiple fractures of forearm 
+S5270;0;Not Significant Trauma;Multiple fractures of forearm: closed 
+S52700;0;Not Significant Trauma;Closed Fracture both bones of proximal part of radius and ulna (TM) 
+S52708;0;Not Significant Trauma;Multiple closed fractures of forearm, others (TM) 
+S52709;0;Not Significant Trauma;Multiple closed fractures of forearm, unspecified (TM) 
+S5271;7;Significant Trauma of the Upper Limb;Multiple fractures of forearm: open 
+S52710;7;Significant Trauma of the Upper Limb;Open fracture of proximal part of both ulna and radius (TM) 
+S52718;7;Significant Trauma of the Upper Limb;Multiple open fractures of forearm, others (TM) 
+S52719;7;Significant Trauma of the Upper Limb;Multiple open fractures of forearm, unspecified (TM) 
+S528;0;Not Significant Trauma;Fracture of other parts of forearm 
+S5280;0;Not Significant Trauma;Fracture of other parts of forearm: closed 
+S5281;7;Significant Trauma of the Upper Limb;Fracture of other parts of forearm: open 
+S529;0;Not Significant Trauma;Fracture of forearm, part unspecified 
+S5290;0;Not Significant Trauma;Fracture of forearm, part unspecified: closed 
+S5291;7;Significant Trauma of the Upper Limb;Fracture of forearm, part unspecified: open 
+S530;0;Not Significant Trauma;Dislocation of radial head 
+S5300;0;Not Significant Trauma;Dislocation of radial head (TM) 
+S5301;0;Not Significant Trauma;Subluxation of radial head (TM) 
+S5302;0;Not Significant Trauma;Pulled elbow in children (TM) 
+S531;0;Not Significant Trauma;Dislocation of elbow, unspecified 
+S5310;0;Not Significant Trauma;Dislocation of elbow, anterior (TM) 
+S5311;0;Not Significant Trauma;Dislocation of elbow, posterior (TM) 
+S5312;0;Not Significant Trauma;Dislocation of elbow, medial (TM) 
+S5313;0;Not Significant Trauma;Dislocation of elbow, lateral (TM) 
+S5314;0;Not Significant Trauma;Dislocation of elbow, divergen (TM) 
+S5315;0;Not Significant Trauma;Dislocation of elbow, with associated fracture (TM) 
+S5318;0;Not Significant Trauma;Dislocation of elbow, other (TM) 
+S5319;0;Not Significant Trauma;Dislocation of elbow, unspecified (TM) 
+S532;0;Not Significant Trauma;Traumatic rupture of radial collateral ligament 
+S533;0;Not Significant Trauma;Traumatic rupture of ulnar collateral ligament 
+S534;0;Not Significant Trauma;Sprain and strain of elbow 
+S540;7;Significant Trauma of the Upper Limb;Injury of ulnar nerve at forearm level 
+S541;7;Significant Trauma of the Upper Limb;Injury of median nerve at forearm level 
+S542;7;Significant Trauma of the Upper Limb;Injury of radial nerve at forearm level 
+S543;0;Not Significant Trauma;Injury of cutaneous sensory nerve at forearm level 
+S547;7;Significant Trauma of the Upper Limb;Injury of multiple nerves at forearm level 
+S548;0;Not Significant Trauma;Injury of other nerves at forearm level 
+S549;0;Not Significant Trauma;Injury of unspecified nerve at forearm level 
+S550;7;Significant Trauma of the Upper Limb;Injury of ulnar artery at forearm level 
+S551;7;Significant Trauma of the Upper Limb;Injury of radial artery at forearm level 
+S552;0;Not Significant Trauma;Injury of vein at forearm level 
+S557;0;Not Significant Trauma;Injury of multiple blood vessels at forearm level 
+S558;0;Not Significant Trauma;Injury of other blood vessels at forearm level 
+S559;0;Not Significant Trauma;Injury of unspecified blood vessel at forearm level 
+S560;0;Not Significant Trauma;Injury of flexor muscle and tendon of thumb at forearm level 
+S561;0;Not Significant Trauma;Injury of flexor muscle and tendon of other finger(s) at forearm level 
+S562;0;Not Significant Trauma;Injury of other flexor muscle and tendon at forearm level 
+S563;0;Not Significant Trauma;Injury of extensor abductor muscles and tendons of thumb at forearm level 
+S564;0;Not Significant Trauma;Injury of extensor muscle and tendon of other finger(s) at forearm level 
+S565;0;Not Significant Trauma;Injury of other extensor muscle and tendon at forearm level 
+S567;0;Not Significant Trauma;Injury of multiple muscles and tendons at forearm level 
+S568;0;Not Significant Trauma;Injury of other and unspecified muscles and tendons at forearm level 
+S570;0;Not Significant Trauma;Crushing injury of elbow 
+S578;0;Not Significant Trauma;Crushing injury of other parts of forearm 
+S579;0;Not Significant Trauma;Crushing injury of forearm, part unspecified 
+S580;7;Significant Trauma of the Upper Limb;Traumatic amputation at elbow level 
+S581;7;Significant Trauma of the Upper Limb;Traumatic amputation at level between elbow and wrist 
+S589;7;Significant Trauma of the Upper Limb;Traumatic amputation of forearm, level unspecified 
+S597;0;Not Significant Trauma;Multiple injuries of forearm 
+S598;0;Not Significant Trauma;Other specified injuries of forearm 
+S599;0;Not Significant Trauma;Unspecified injury of forearm 
+S600;0;Not Significant Trauma;Contusion of finger(s) without damage to nail 
+S601;0;Not Significant Trauma;Contusion of finger(s) with damage to nail 
+S602;0;Not Significant Trauma;Contusion of other parts of wrist and hand 
+S607;0;Not Significant Trauma;Multiple superficial injuries of wrist and hand 
+S608;0;Not Significant Trauma;Other superficial injuries of wrist and hand 
+S6080;0;Not Significant Trauma;Abrasion of wrist and hand (TM) 
+S6081;0;Not Significant Trauma;Blister of wrist and hand (TM) 
+S6082;0;Not Significant Trauma;Insect bite of wrist and hand (TM) 
+S6083;0;Not Significant Trauma;Superficial foreign body of wrist and hand (TM) 
+S6088;0;Not Significant Trauma;Other superficial injuries of wrist and hand (TM) 
+S609;0;Not Significant Trauma;Superficial injury of wrist and hand, unspecified 
+S610;0;Not Significant Trauma;Open wound of finger(s) without damage to nail 
+S611;0;Not Significant Trauma;Open wound of finger(s) with damage to nail 
+S617;0;Not Significant Trauma;Multiple open wounds of wrist and hand 
+S618;0;Not Significant Trauma;Open wound of other parts of wrist and hand 
+S619;0;Not Significant Trauma;Open wound of wrist and hand, part unspecified 
+S620;0;Not Significant Trauma;Fracture of navicular [scaphoid] bone of hand 
+S6200;0;Not Significant Trauma;Fracture of navicular [scaphoid] bone of hand: closed 
+S6201;0;Not Significant Trauma;Fracture of navicular [scaphoid] bone of hand: open 
+S621;0;Not Significant Trauma;Fracture of other carpal bone(s) 
+S6210;0;Not Significant Trauma;Fracture of other carpal bone(s): closed 
+S62100;0;Not Significant Trauma;Closed Fracture of lunate [semilunar] (TM) 
+S62101;0;Not Significant Trauma;Closed Fracture of triquetrum [cuneiform] (TM) 
+S62102;0;Not Significant Trauma;Closed Fracture of pisiform (TM) 
+S62103;0;Not Significant Trauma;Closed Fracture of trapezium [greater multangular] (TM) 
+S62104;0;Not Significant Trauma;Closed Fracture of trapezoid [lesser multangular] (TM) 
+S62105;0;Not Significant Trauma;Closed Fracture of capitate [os magnum] (TM) 
+S62106;0;Not Significant Trauma;Closed Fracture of hamate [unciform] (TM) 
+S62107;0;Not Significant Trauma;Closed Fracture of other carpal bones, multiple fractures (TM) 
+S62109;0;Not Significant Trauma;Closed Fracture of other carpal bones, unspecified (TM) 
+S6211;0;Not Significant Trauma;Fracture of other carpal bone(s): open 
+S62110;0;Not Significant Trauma;Open Fracture of lunate [semilunar] (TM) 
+S62111;0;Not Significant Trauma;Open Fracture of triquetrum [cuneiform] (TM) 
+S62112;0;Not Significant Trauma;Open Fracture of pisiform (TM) 
+S62113;0;Not Significant Trauma;Open Fracture of trapezium [greater multangular] (TM) 
+S62114;0;Not Significant Trauma;Open Fracture of trapezoid [lesser multangular] (TM) 
+S62115;0;Not Significant Trauma;Open Fracture of capitate [os magnum] (TM) 
+S62116;0;Not Significant Trauma;Open Fracture of hamate [unciform] (TM) 
+S62117;0;Not Significant Trauma;Open Fracture of other carpal bones, multiple fractures (TM) 
+S62119;0;Not Significant Trauma;Open Fracture of other carpal bones, unspecified (TM) 
+S622;0;Not Significant Trauma;Fracture of first metacarpal bone 
+S6220;0;Not Significant Trauma;Fracture of first metacarpal bone: closed 
+S6221;0;Not Significant Trauma;Fracture of first metacarpal bone: open 
+S623;0;Not Significant Trauma;Fracture of other metacarpal bone 
+S6230;0;Not Significant Trauma;Fracture of other metacarpal bone: closed 
+S6231;0;Not Significant Trauma;Fracture of other metacarpal bone: open 
+S624;0;Not Significant Trauma;Multiple fractures of metacarpal bones 
+S6240;0;Not Significant Trauma;Multiple fractures of metacarpal bones: closed 
+S6241;0;Not Significant Trauma;Multiple fractures of metacarpal bones: open 
+S625;0;Not Significant Trauma;Fracture of thumb 
+S6250;0;Not Significant Trauma;Fracture of thumb: closed 
+S6251;0;Not Significant Trauma;Fracture of thumb: open 
+S626;0;Not Significant Trauma;Fracture of other finger 
+S6260;0;Not Significant Trauma;Fracture of other finger: closed 
+S6261;0;Not Significant Trauma;Fracture of other finger: open 
+S627;0;Not Significant Trauma;Multiple fractures of fingers 
+S6270;0;Not Significant Trauma;Multiple fractures of fingers: closed 
+S6271;0;Not Significant Trauma;Multiple fractures of fingers: open 
+S628;0;Not Significant Trauma;Fracture of other and unspecified parts of wrist and hand 
+S6280;0;Not Significant Trauma;Fracture of other and unspecified parts of wrist and hand: closed 
+S6281;0;Not Significant Trauma;Fracture of other and unspecified parts of wrist and hand: open 
+S630;0;Not Significant Trauma;Dislocation of wrist 
+S6300;0;Not Significant Trauma;Dislocation of wrist, distal radioulnar joint (TM) 
+S6301;0;Not Significant Trauma;Dislocation of wrist, radiocarpal joint (TM) 
+S6302;0;Not Significant Trauma;Dislocation of wrist, midcarpal joint (TM) 
+S6303;0;Not Significant Trauma;Dislocation of wrist, carpometacarpal joint (TM) 
+S6308;0;Not Significant Trauma;Dislocation of wrist, other (TM) 
+S6309;0;Not Significant Trauma;Dislocation of wrist, unspecified joint (TM) 
+S631;0;Not Significant Trauma;Dislocation of finger 
+S6310;0;Not Significant Trauma;Dislocation of metacarpophalangeal joint (MCP) of thumb and fingers (TM) 
+S6311;0;Not Significant Trauma;Dislocation of interphalangeal joint of thumb and finger (TM) 
+S6319;0;Not Significant Trauma;Dislocation of thumb and finger, unspecified joint (TM) 
+S632;0;Not Significant Trauma;Multiple dislocations of fingers 
+S633;0;Not Significant Trauma;Traumatic rupture of ligament of wrist and carpus 
+S634;0;Not Significant Trauma;Traumatic rupture of ligament of finger at metacarpophalangeal and interphalangeal joint(s) 
+S635;0;Not Significant Trauma;Sprain and strain of wrist 
+S636;0;Not Significant Trauma;Sprain and strain of finger(s) 
+S637;0;Not Significant Trauma;Sprain and strain of other and unspecified parts of hand 
+S640;7;Significant Trauma of the Upper Limb;Injury of ulnar nerve at wrist and hand level 
+S641;7;Significant Trauma of the Upper Limb;Injury of median nerve at wrist and hand level 
+S642;7;Significant Trauma of the Upper Limb;Injury of radial nerve at wrist and hand level 
+S643;0;Not Significant Trauma;Injury of digital nerve of thumb 
+S644;0;Not Significant Trauma;Injury of digital nerve of other finger 
+S647;0;Not Significant Trauma;Injury of multiple nerves at wrist and hand level 
+S648;0;Not Significant Trauma;Injury of other nerves at wrist and hand level 
+S649;0;Not Significant Trauma;Injury of unspecified nerve at wrist and hand level 
+S650;7;Significant Trauma of the Upper Limb;Injury of ulnar artery at wrist and hand level 
+S651;7;Significant Trauma of the Upper Limb;Injury of radial artery at wrist and hand level 
+S652;0;Not Significant Trauma;Injury of superficial palmar arch 
+S653;0;Not Significant Trauma;Injury of deep palmar arch 
+S654;0;Not Significant Trauma;Injury of blood vessel(s) of thumb 
+S655;0;Not Significant Trauma;Injury of blood vessel(s) of other finger 
+S657;0;Not Significant Trauma;Injury of multiple blood vessels at wrist and hand level 
+S658;0;Not Significant Trauma;Injury of other blood vessels at wrist and hand level 
+S659;0;Not Significant Trauma;Injury of unspecified blood vessel at wrist and hand level 
+S660;0;Not Significant Trauma;Injury of long flexor muscle and tendon of thumb at wrist and hand level 
+S661;0;Not Significant Trauma;Injury of flexor muscle and tendon of other finger at wrist and hand level 
+S662;0;Not Significant Trauma;Injury of extensor muscle and tendon of thumb at wrist and hand level 
+S663;0;Not Significant Trauma;Injury of extensor muscle and tendon of other finger at wrist and hand level 
+S664;0;Not Significant Trauma;Injury of intrinsic muscle and tendon of thumb at wrist and hand level 
+S665;0;Not Significant Trauma;Injury of intrinsic muscle and tendon of other finger at wrist and hand level 
+S666;0;Not Significant Trauma;Injury of multiple flexor muscles and tendons at wrist and hand level 
+S667;0;Not Significant Trauma;Injury of multiple extensor muscles and tendons at wrist and hand level 
+S668;0;Not Significant Trauma;Injury of other muscles and tendons at wrist and hand level 
+S669;0;Not Significant Trauma;Injury of unspecified muscle and tendon at wrist and hand level 
+S670;0;Not Significant Trauma;Crushing injury of thumb and other finger(s) 
+S678;0;Not Significant Trauma;Crushing injury of other and unspecified parts of wrist and hand 
+S680;0;Not Significant Trauma;Traumatic amputation of thumb (complete)(partial) 
+S681;0;Not Significant Trauma;Traumatic amputation of other single finger (complete)(partial) 
+S682;0;Not Significant Trauma;Traumatic amputation of two or more fingers alone (complete)(partial) 
+S683;7;Significant Trauma of the Upper Limb;Combined traumatic amputation of (part of) finger(s) with other parts of wrist and hand 
+S684;7;Significant Trauma of the Upper Limb;Traumatic amputation of hand at wrist level 
+S688;7;Significant Trauma of the Upper Limb;Traumatic amputation of other parts of wrist and hand 
+S689;7;Significant Trauma of the Upper Limb;Traumatic amputation of wrist and hand, level unspecified 
+S697;0;Not Significant Trauma;Multiple injuries of wrist and hand 
+S698;0;Not Significant Trauma;Other specified injuries of wrist and hand 
+S699;0;Not Significant Trauma;Unspecified injury of wrist and hand 
+S700;0;Not Significant Trauma;Contusion of hip 
+S701;0;Not Significant Trauma;Contusion of thigh 
+S707;0;Not Significant Trauma;Multiple superficial injuries of hip and thigh 
+S708;0;Not Significant Trauma;Other superficial injuries of hip and thigh 
+S7080;0;Not Significant Trauma;Abrasion of hip and thigh (TM) 
+S7081;0;Not Significant Trauma;Blister of hip and thigh (TM) 
+S7082;0;Not Significant Trauma;Insect bite of hip and thigh (TM) 
+S7083;0;Not Significant Trauma;Superficial foreign body of hip and thigh (TM) 
+S7088;0;Not Significant Trauma;Other superficial injuries of hip and thigh (TM) 
+S709;0;Not Significant Trauma;Superficial injury of hip and thigh, unspecified 
+S710;0;Not Significant Trauma;Open wound of hip 
+S711;0;Not Significant Trauma;Open wound of thigh 
+S717;0;Not Significant Trauma;Multiple open wounds of hip and thigh 
+S718;0;Not Significant Trauma;Open wound of other and unspecified parts of pelvic girdle 
+S720;8;Significant Trauma of the Lower Limb;Fracture of neck of femur 
+S7200;8;Significant Trauma of the Lower Limb;Fracture of neck of femur: closed 
+S72000;8;Significant Trauma of the Lower Limb;Closed Fracture of neck of femur, undisplaced intracapsular fracture (TM) 
+S72001;8;Significant Trauma of the Lower Limb;Closed Fracture of neck of femur, displaced intracapsular fracture (TM) 
+S72002;8;Significant Trauma of the Lower Limb;Closed Fracture of neck of femur, impacted intracapsular fracture (TM) 
+S72003;8;Significant Trauma of the Lower Limb;Closed Fracture of neck of femur, midcervical shear fracture (TM) 
+S72004;8;Significant Trauma of the Lower Limb;Closed Fracture of neck of femur, base of neck (cervicotrochanteric) (TM) 
+S72005;8;Significant Trauma of the Lower Limb;Closed Fracture of head of femur (TM) 
+S72006;8;Significant Trauma of the Lower Limb;Closed Fracture of epiphysis of upper femur (TM) 
+S72007;8;Significant Trauma of the Lower Limb;Closed Fracture of neck of femur, multiple (TM) 
+S72008;8;Significant Trauma of the Lower Limb;Closed Fracture of neck of femur, others (TM) 
+S72009;8;Significant Trauma of the Lower Limb;Closed Fracture of neck of femur, unspecified (TM) 
+S7201;8;Significant Trauma of the Lower Limb;Fracture of neck of femur: open 
+S72010;8;Significant Trauma of the Lower Limb;Open Fracture of neck of femur, undisplaced intracapsular fracture (TM) 
+S72011;8;Significant Trauma of the Lower Limb;Open Fracture of neck of femur, displaced intracapsular fracture (TM) 
+S72012;8;Significant Trauma of the Lower Limb;Open Fracture of neck of femur, impacted intracapsular fracture (TM) 
+S72013;8;Significant Trauma of the Lower Limb;Open Fracture of neck of femur, midcervical shear fracture (TM) 
+S72014;8;Significant Trauma of the Lower Limb;Open Fracture of neck of femur, base of neck (cervicotrochanteric) (TM) 
+S72015;8;Significant Trauma of the Lower Limb;Open Fracture of head of femur (TM) 
+S72016;8;Significant Trauma of the Lower Limb;Open Fracture of epiphysis of upper femur (TM) 
+S72017;8;Significant Trauma of the Lower Limb;Open Fracture of neck of femur, multiple (TM) 
+S72018;8;Significant Trauma of the Lower Limb;Open Fracture of neck of femur, others (TM) 
+S72019;8;Significant Trauma of the Lower Limb;Open Fracture of neck of femur, unspecified (TM) 
+S721;8;Significant Trauma of the Lower Limb;Pertrochanteric fracture 
+S7210;8;Significant Trauma of the Lower Limb;Pertrochanteric fracture: closed 
+S72100;8;Significant Trauma of the Lower Limb;Closed Intertrochanteric fracture of femur, stable type (TM) 
+S72101;8;Significant Trauma of the Lower Limb;Closed Intertrochanteric fracture of femur, unstable type (TM) 
+S72108;8;Significant Trauma of the Lower Limb;Closed Fracture of trochanteric region of femur, others (TM) 
+S72109;8;Significant Trauma of the Lower Limb;Closed Intertrochanteric fracture of femur, stable type (TM) 
+S7211;8;Significant Trauma of the Lower Limb;Pertrochanteric fracture: open 
+S72110;8;Significant Trauma of the Lower Limb;Open Intertrochanteric fracture of femur, stable type (TM) 
+S72111;8;Significant Trauma of the Lower Limb;Open Intertrochanteric fracture of femur, unstable type (TM) 
+S72118;8;Significant Trauma of the Lower Limb;Open Fracture of trochanteric region of femur, others (TM) 
+S72119;8;Significant Trauma of the Lower Limb;Open Intertrochanteric fracture of femur, stable type (TM) 
+S722;8;Significant Trauma of the Lower Limb;Subtrochanteric fracture 
+S7220;8;Significant Trauma of the Lower Limb;Subtrochanteric fracture: closed 
+S7221;8;Significant Trauma of the Lower Limb;Subtrochanteric fracture: open 
+S723;8;Significant Trauma of the Lower Limb;Fracture of shaft of femur 
+S7230;8;Significant Trauma of the Lower Limb;Fracture of shaft of femur: closed 
+S72300;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of femur, simple fracture (TM) 
+S72301;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of femur, butterfly fracture (TM) 
+S72302;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of femur, comminuted fracture (TM) 
+S72307;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of femur, bifocal and segmental and (TM) 
+S72309;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of femur, unspecified (TM) 
+S7231;8;Significant Trauma of the Lower Limb;Fracture of shaft of femur: open 
+S72310;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of femur, simple fracture (TM) 
+S72311;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of femur, butterfly fracture (TM) 
+S72312;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of femur, comminuted fracture (TM) 
+S72317;8;Significant Trauma of the Lower Limb;Open fracture of shaft of femur, bifocal and segmental and multiple (TM) 
+S72319;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of femur, unspecified (TM) 
+S724;8;Significant Trauma of the Lower Limb;Fracture of lower end of femur 
+S7240;8;Significant Trauma of the Lower Limb;Fracture of lower end of femur: closed 
+S72400;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, supracondylar (TM) 
+S72401;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, lateral condyle (TM) 
+S72402;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, medial condyle (TM) 
+S72403;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, other parts of condyle and epicondyle (TM) 
+S72404;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, T-shape intraarticular fracture (TM) 
+S72405;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, multifragment intraarticular fracture (TM) 
+S72406;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, multiple fractures (TM) 
+S72407;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femoral epiphysis (TM) 
+S72408;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, others (TM) 
+S72409;8;Significant Trauma of the Lower Limb;Closed Fracture of distal femur, unspecified (TM) 
+S7241;8;Significant Trauma of the Lower Limb;Fracture of lower end of femur: open 
+S72410;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, supracondylar (TM) 
+S72411;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, lateral condyle (TM) 
+S72412;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, medial condyle (TM) 
+S72413;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, other parts of condyle and epicondyle (TM) 
+S72414;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, T-shape intraarticular fracture (TM) 
+S72415;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, multifragment intraarticular fracture (TM) 
+S72416;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, multiple fractures (TM) 
+S72417;8;Significant Trauma of the Lower Limb;Open Fracture of distal femoral epiphysis (TM) 
+S72418;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, others (TM) 
+S72419;8;Significant Trauma of the Lower Limb;Open Fracture of distal femur, unspecified (TM) 
+S727;8;Significant Trauma of the Lower Limb;Multiple fractures of femur 
+S7270;8;Significant Trauma of the Lower Limb;Multiple fractures of femur: closed 
+S7271;8;Significant Trauma of the Lower Limb;Multiple fractures of femur: open 
+S728;8;Significant Trauma of the Lower Limb;Fractures of other parts of femur 
+S7280;8;Significant Trauma of the Lower Limb;Fractures of other parts of femur: closed 
+S7281;8;Significant Trauma of the Lower Limb;Fractures of other parts of femur: open 
+S729;8;Significant Trauma of the Lower Limb;Fracture of femur, part unspecified 
+S7290;8;Significant Trauma of the Lower Limb;Fracture of femur, part unspecified: closed 
+S7291;8;Significant Trauma of the Lower Limb;Fracture of femur, part unspecified: open 
+S730;0;Not Significant Trauma;Dislocation of hip 
+S7300;0;Not Significant Trauma;Dislocation of hip, anterior (TM) 
+S7301;0;Not Significant Trauma;Dislocation of hip, posterior type with or without minor fracture (TM) 
+S7302;0;Not Significant Trauma;Dislocation of hip, posterior type with large single fracture (TM) 
+S7303;0;Not Significant Trauma;Dislocation of hip, posterior type with comminution of rim (TM) 
+S7304;0;Not Significant Trauma;Dislocation of hip, posterior type with fracture of the acetabular (TM) 
+S7305;0;Not Significant Trauma;Dislocation of hip, posterior type with fracture of head of femur (TM) 
+S7308;0;Not Significant Trauma;Dislocation of hip, other (TM) 
+S7309;0;Not Significant Trauma;Dislocation of hip, unspecified (TM) 
+S731;0;Not Significant Trauma;Sprain and strain of hip 
+S740;8;Significant Trauma of the Lower Limb;Injury of sciatic nerve at hip and thigh level 
+S741;8;Significant Trauma of the Lower Limb;Injury of femoral nerve at hip and thigh level 
+S742;0;Not Significant Trauma;Injury of cutaneous sensory nerve at hip and thigh level 
+S747;0;Not Significant Trauma;Injury of multiple nerves at hip and thigh level 
+S748;0;Not Significant Trauma;Injury of other nerves at hip and thigh level 
+S749;0;Not Significant Trauma;Injury of unspecified nerve at hip and thigh level 
+S750;8;Significant Trauma of the Lower Limb;Injury of femoral artery 
+S751;8;Significant Trauma of the Lower Limb;Injury of femoral vein at hip and thigh level 
+S752;0;Not Significant Trauma;Injury of greater saphenous vein at hip and thigh level 
+S757;0;Not Significant Trauma;Injury of multiple blood vessels at hip and thigh level 
+S758;0;Not Significant Trauma;Injury of other blood vessels at hip and thigh level 
+S759;0;Not Significant Trauma;Injury of unspecified blood vessel at hip and thigh level 
+S760;0;Not Significant Trauma;Injury of muscle and tendon of hip 
+S761;0;Not Significant Trauma;Injury of quadriceps muscle and tendon 
+S762;0;Not Significant Trauma;Injury of adductor muscle and tendon of thigh 
+S763;0;Not Significant Trauma;Injury of muscle and tendon of the posterior muscle group at thigh level 
+S764;0;Not Significant Trauma;Injury of other and unspecified muscles and tendons at thigh level 
+S767;0;Not Significant Trauma;Injury of multiple muscles and tendons at hip and thigh level 
+S770;0;Not Significant Trauma;Crushing injury of hip 
+S771;0;Not Significant Trauma;Crushing injury of thigh 
+S772;0;Not Significant Trauma;Crushing injury of hip with thigh 
+S780;8;Significant Trauma of the Lower Limb;Traumatic amputation at hip joint 
+S781;8;Significant Trauma of the Lower Limb;Traumatic amputation at level between hip and knee 
+S789;8;Significant Trauma of the Lower Limb;Traumatic amputation of hip and thigh, level unspecified 
+S797;0;Not Significant Trauma;Multiple injuries of hip and thigh 
+S798;0;Not Significant Trauma;Other specified injuries of hip and thigh 
+S799;0;Not Significant Trauma;Unspecified injury of hip and thigh 
+S800;0;Not Significant Trauma;Contusion of knee 
+S801;0;Not Significant Trauma;Contusion of other and unspecified parts of lower leg 
+S807;0;Not Significant Trauma;Multiple superficial injuries of lower leg 
+S808;0;Not Significant Trauma;Other superficial injuries of lower leg 
+S8080;0;Not Significant Trauma;Abrasion of knee and leg (TM) 
+S8081;0;Not Significant Trauma;Blister of knee and leg (TM) 
+S8082;0;Not Significant Trauma;Insect bite of knee and leg (TM) 
+S8083;0;Not Significant Trauma;Superficial foreign body of knee and leg (TM) 
+S8088;0;Not Significant Trauma;Other superficial injuries of knee and leg (TM) 
+S809;0;Not Significant Trauma;Superficial injury of lower leg, unspecified 
+S810;0;Not Significant Trauma;Open wound of knee 
+S811;0;Not Significant Trauma;Open wound of leg (TM) 
+S817;0;Not Significant Trauma;Multiple open wounds of lower leg 
+S818;0;Not Significant Trauma;Open wound of other parts of lower leg 
+S819;0;Not Significant Trauma;Open wound of lower leg, part unspecified 
+S820;8;Significant Trauma of the Lower Limb;Fracture of patella 
+S8200;0;Not Significant Trauma;Fracture of patella: closed 
+S8201;0;Not Significant Trauma;Fracture of patella: open 
+S821;0;Not Significant Trauma;Fracture of upper end of tibia 
+S8210;0;Not Significant Trauma;Fracture of upper end of tibia: closed 
+S82100;0;Not Significant Trauma;Closed Fracture of proximal tibia, extraarticular (TM) 
+S82101;0;Not Significant Trauma;Closed Fracture of proximal tibia, medial condyle (TM) 
+S82102;0;Not Significant Trauma;Closed Fracture of proximal tibia, lateral condyle [split] (TM) 
+S82103;0;Not Significant Trauma;Closed Fracture of proximal tibia, bicondyle (TM) 
+S82104;0;Not Significant Trauma;Closed Fracture of proximal tibia, with ligamentous injury (TM) 
+S82105;0;Not Significant Trauma;Closed Isolated fracture of tibial spine and intercondylar eminence (TM) 
+S82106;0;Not Significant Trauma;Closed Fracture of epiphysis of proximal tibia (TM) 
+S82107;0;Not Significant Trauma;Closed Fracture of proximal tibia, multiple fractures (TM) 
+S82108;0;Not Significant Trauma;Closed Fracture of proximal tibia, others (TM) 
+S82109;0;Not Significant Trauma;Closed Fracture of proximal tibia, unspecified (TM) 
+S8211;8;Significant Trauma of the Lower Limb;Fracture of upper end of tibia: open 
+S82110;8;Significant Trauma of the Lower Limb;Open Fracture of proximal tibia, extraarticular (TM) 
+S82111;8;Significant Trauma of the Lower Limb;Open Fracture of proximal tibia, medial condyle (TM) 
+S82112;8;Significant Trauma of the Lower Limb;Open Fracture of proximal tibia, lateral condyle [split] (TM) 
+S82113;8;Significant Trauma of the Lower Limb;Open Fracture of proximal tibia, bicondyle (TM) 
+S82114;8;Significant Trauma of the Lower Limb;Open Fracture of proximal tibia, with ligamentous injury (TM) 
+S82115;8;Significant Trauma of the Lower Limb;Open Isolated fracture of tibial spine and intercondylar eminence (TM) 
+S82116;8;Significant Trauma of the Lower Limb;Open Fracture of epiphysis of proximal tibia (TM) 
+S82117;8;Significant Trauma of the Lower Limb;Open Fracture of proximal tibia, multiple fractures (TM) 
+S82118;8;Significant Trauma of the Lower Limb;Open Fracture of proximal tibia, others (TM) 
+S82119;8;Significant Trauma of the Lower Limb;Open Fracture of proximal tibia, unspecified (TM) 
+S822;0;Not Significant Trauma;Fracture of the shaft of tibia 
+S8220;8;Significant Trauma of the Lower Limb;Fracture of the shaft of tibia: closed 
+S82200;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of tibia with intact fibula (TM) 
+S82201;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of tibia with fracture of fibula at same level (TM) 
+S82202;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of tibia with fracture of fibula at different level (TM) 
+S82207;8;Significant Trauma of the Lower Limb;Closed Fracture of shaft of tibia, bifocal and segmental and multiple (TM) 
+S82208;0;Not Significant Trauma;Closed Fracture of shaft of tibia, others (TM) 
+S82209;0;Not Significant Trauma;Closed Fracture of shaft of tibia, unspecified (TM) 
+S8221;8;Significant Trauma of the Lower Limb;Fracture of the shaft of tibia: open 
+S82210;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of tibia with intact fibula (TM) 
+S82211;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of tibia with fracture of fibula at same level (TM) 
+S82212;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of tibia with fracture of fibula at different level (TM) 
+S82217;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of tibia, bifocal and segmental and multiple (TM) 
+S82218;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of tibia, others (TM) 
+S82219;8;Significant Trauma of the Lower Limb;Open Fracture of shaft of tibia, unspecified (TM) 
+S823;0;Not Significant Trauma;Fracture of lower end of tibia 
+S8230;0;Not Significant Trauma;Fracture of lower end of tibia: closed 
+S82300;0;Not Significant Trauma;Closed Fracture of distal tibia, extraarticular (TM) 
+S82301;0;Not Significant Trauma;Closed Fracture of distal tibia, nondisplaced intraarticular (TM) 
+S82302;0;Not Significant Trauma;Closed Fracture of distal tibia, displaced intraarticular (TM) 
+S82303;0;Not Significant Trauma;Closed Fracture of epiphysis of distal tibia (TM) 
+S82307;0;Not Significant Trauma;Closed Fracture of distal tibia, multiple fractures (TM) 
+S82308;0;Not Significant Trauma;Closed Fracture of distal tibia, others (TM) 
+S82309;0;Not Significant Trauma;Closed Fracture of distal tibia, unspecified (TM) 
+S8231;8;Significant Trauma of the Lower Limb;Fracture of lower end of tibia: open 
+S82310;8;Significant Trauma of the Lower Limb;Open Fracture of distal tibia, extraarticular (TM) 
+S82311;8;Significant Trauma of the Lower Limb;Open Fracture of distal tibia, nondisplaced intraarticular (TM) 
+S82312;8;Significant Trauma of the Lower Limb;Open Fracture of distal tibia, displaced intraarticular (TM) 
+S82313;8;Significant Trauma of the Lower Limb;Open Fracture of epiphysis of distal tibia (TM) 
+S82317;8;Significant Trauma of the Lower Limb;Open Fracture of distal tibia, multiple fractures (TM) 
+S82318;8;Significant Trauma of the Lower Limb;Open Fracture of distal tibia, others (TM) 
+S82319;8;Significant Trauma of the Lower Limb;Open Fracture of distal tibia, unspecified (TM) 
+S824;0;Not Significant Trauma;Fracture of fibula alone 
+S8240;0;Not Significant Trauma;Fracture of fibula alone: closed 
+S8241;8;Significant Trauma of the Lower Limb;Fracture of fibula alone: open 
+S825;0;Not Significant Trauma;Fracture of medial malleolus 
+S8250;0;Not Significant Trauma;Fracture of medial malleolus: closed 
+S8251;0;Not Significant Trauma;Fracture of medial malleolus: open 
+S826;0;Not Significant Trauma;Fracture of lateral malleolus 
+S8260;0;Not Significant Trauma;Fracture of lateral malleolus: closed 
+S8261;0;Not Significant Trauma;Fracture of lateral malleolus: open 
+S827;0;Not Significant Trauma;Multiple fractures of lower leg 
+S8270;0;Not Significant Trauma;Multiple fractures of lower leg: closed 
+S8271;0;Not Significant Trauma;Multiple fractures of lower leg: open 
+S828;0;Not Significant Trauma;Fractures of other parts of lower leg 
+S8280;0;Not Significant Trauma;Fractures of other parts of lower leg: closed 
+S8281;0;Not Significant Trauma;Fractures of other parts of lower leg: open 
+S829;0;Not Significant Trauma;Fracture of lower leg, unspecified 
+S8290;0;Not Significant Trauma;Fracture of lower leg, unspecified: closed 
+S8291;0;Not Significant Trauma;Fracture of lower leg, unspecified: open 
+S830;0;Not Significant Trauma;Dislocation of patella 
+S831;0;Not Significant Trauma;Dislocation of knee 
+S832;0;Not Significant Trauma;Tear of meniscus, current 
+S833;0;Not Significant Trauma;Tear of articular cartilage of knee, current 
+S834;0;Not Significant Trauma;Sprain and strain involving (fibular) (tibial) collateral ligament of knee 
+S835;0;Not Significant Trauma;Sprain and strain involving (anterior)(posterior) cruciate ligament of knee 
+S8350;0;Not Significant Trauma;Avulsion of anterior cruciate ligament (ACL) (TM) 
+S8351;0;Not Significant Trauma;Avulsion of posterior cruciate ligament (PCL) (TM) 
+S8359;0;Not Significant Trauma;Sprain and strain involving cruciate ligament of knee, unspecified (TM) 
+S836;0;Not Significant Trauma;Sprain and strain of other and unspecified parts of knee 
+S837;0;Not Significant Trauma;Injury to multiple structures of knee 
+S840;8;Significant Trauma of the Lower Limb;Injury of tibial nerve at lower leg level 
+S841;8;Significant Trauma of the Lower Limb;Injury of peroneal nerve at lower leg level 
+S842;0;Not Significant Trauma;Injury of cutaneous sensory nerve at lower leg level 
+S847;0;Not Significant Trauma;Injury of multiple nerves at lower leg level 
+S848;0;Not Significant Trauma;Injury of other nerves at lower leg level 
+S849;0;Not Significant Trauma;Injury of unspecified nerve at lower leg level 
+S850;8;Significant Trauma of the Lower Limb;Injury of popliteal artery 
+S851;8;Significant Trauma of the Lower Limb;Injury of (anterior)(posterior) tibial artery 
+S852;8;Significant Trauma of the Lower Limb;Injury of peroneal artery 
+S853;0;Not Significant Trauma;Injury of greater saphenous vein at lower leg level 
+S854;0;Not Significant Trauma;Injury of lesser saphenous vein at lower leg level 
+S855;8;Significant Trauma of the Lower Limb;Injury of popliteal vein 
+S857;0;Not Significant Trauma;Injury of multiple blood vessels at lower leg level 
+S858;8;Significant Trauma of the Lower Limb;Injury of other blood vessels at lower leg level 
+S859;0;Not Significant Trauma;Injury of unspecified blood vessel at lower leg level 
+S860;0;Not Significant Trauma;Injury of Achilles tendon 
+S861;0;Not Significant Trauma;Injury of other muscle(s) and tendon(s) of posterior muscle group at lower leg 
+S862;0;Not Significant Trauma;Injury of muscle(s) and tendon(s) of anterior muscle group at lower leg level 
+S863;0;Not Significant Trauma;Injury of muscle(s) and tendon(s) of peroneal muscle group at lower leg level 
+S867;0;Not Significant Trauma;Injury of multiple muscles and tendons at lower leg level 
+S868;0;Not Significant Trauma;Injury of other muscles and tendons at lower leg level 
+S869;0;Not Significant Trauma;Injury of unspecified muscle and tendon at lower leg level 
+S870;0;Not Significant Trauma;Crushing injury of knee 
+S878;0;Not Significant Trauma;Crushing injury of other and unspecified parts of lower leg 
+S879;0;Not Significant Trauma;Crushing injury of unspecified parts of knee and leg (TM) 
+S880;8;Significant Trauma of the Lower Limb;Traumatic amputation at knee level 
+S881;8;Significant Trauma of the Lower Limb;Traumatic amputation at level between knee and ankle 
+S889;8;Significant Trauma of the Lower Limb;Traumatic amputation of lower leg, level unspecified 
+S897;0;Not Significant Trauma;Multiple injuries of lower leg 
+S898;0;Not Significant Trauma;Other specified injuries of lower leg 
+S899;0;Not Significant Trauma;Unspecified injury of lower leg 
+S900;0;Not Significant Trauma;Contusion of ankle 
+S901;0;Not Significant Trauma;Contusion of toe(s) without damage to nail 
+S902;0;Not Significant Trauma;Contusion of toe(s) with damage to nail 
+S903;0;Not Significant Trauma;Contusion of other and unspecified parts of foot 
+S907;0;Not Significant Trauma;Multiple superficial injuries of ankle and foot 
+S908;0;Not Significant Trauma;Other superficial injuries of ankle and foot 
+S9080;0;Not Significant Trauma;Abrasion of ankle and foot (TM) 
+S9081;0;Not Significant Trauma;Blister of ankle and foot (TM) 
+S9082;0;Not Significant Trauma;Insect bite of ankle and foot (TM) 
+S9083;0;Not Significant Trauma;Superficial foreign body of ankle and foot (TM) 
+S9088;0;Not Significant Trauma;Other superficial injuries of ankle and foot (TM) 
+S909;0;Not Significant Trauma;Superficial injury of ankle and foot, unspecified 
+S910;0;Not Significant Trauma;Open wound of ankle 
+S911;0;Not Significant Trauma;Open wound of toe(s) without damage to nail 
+S912;0;Not Significant Trauma;Open wound of toe(s) with damage to nail 
+S913;0;Not Significant Trauma;Open wound of other parts of foot 
+S917;0;Not Significant Trauma;Multiple open wounds of ankle and foot 
+S919;0;Not Significant Trauma;Open wound of ankle and foot, unspecified (TM) 
+S920;0;Not Significant Trauma;Fracture of calcaneus 
+S9200;0;Not Significant Trauma;Fracture of calcaneus: closed 
+S9201;8;Significant Trauma of the Lower Limb;Fracture of calcaneus: open 
+S921;0;Not Significant Trauma;Fracture of talus 
+S9210;0;Not Significant Trauma;Fracture of talus: closed 
+S9211;8;Significant Trauma of the Lower Limb;Fracture of talus: open 
+S922;0;Not Significant Trauma;Fracture of other tarsal bone(s) 
+S9220;0;Not Significant Trauma;Fracture of other tarsal bones: closed 
+S9221;0;Not Significant Trauma;Fracture of other tarsal bones: open 
+S923;0;Not Significant Trauma;Fracture of metatarsal bone 
+S9230;0;Not Significant Trauma;Fracture of metatarsal bone: closed 
+S92300;0;Not Significant Trauma;Closed Metatarsal fracture, one metatarsal (TM) 
+S92301;0;Not Significant Trauma;Closed Metatarsal fracture, two metatarsals (TM) 
+S92302;0;Not Significant Trauma;Closed Metatarsal fracture, three or more metatarsals (TM) 
+S92309;0;Not Significant Trauma;Closed Metatarsal fracture, unspecified number of metatarsals (TM) 
+S9231;0;Not Significant Trauma;Fracture of metatarsal bone: open 
+S92310;0;Not Significant Trauma;Open Metatarsal fracture, one metatarsal (TM) 
+S92311;0;Not Significant Trauma;Open Metatarsal fracture, two metatarsals (TM) 
+S92312;0;Not Significant Trauma;Open Metatarsal fracture, three or more metatarsals (TM) 
+S92319;0;Not Significant Trauma;Open Metatarsal fracture, unspecified number of metatarsals (TM) 
+S924;0;Not Significant Trauma;Fracture of great toe 
+S9240;0;Not Significant Trauma;Fracture of great toe: closed 
+S9241;0;Not Significant Trauma;Fracture of great toe: open 
+S925;0;Not Significant Trauma;Fracture of other toe 
+S9250;0;Not Significant Trauma;Fracture of other toe: closed 
+S9251;0;Not Significant Trauma;Fracture of other toe: open 
+S927;0;Not Significant Trauma;Multiple fractures of foot 
+S9270;0;Not Significant Trauma;Multiple fractures of foot: closed 
+S9271;0;Not Significant Trauma;Multiple fractures of foot: open 
+S929;0;Not Significant Trauma;Fracture of foot, unspecified 
+S9290;0;Not Significant Trauma;Fracture of foot, unspecified: closed 
+S9291;0;Not Significant Trauma;Fracture of foot, unspecified: open 
+S930;0;Not Significant Trauma;Dislocation of ankle joint 
+S931;0;Not Significant Trauma;Dislocation of toe(s) 
+S932;0;Not Significant Trauma;Rupture of ligaments at ankle and foot level 
+S933;0;Not Significant Trauma;Dislocation of other and unspecified parts of foot 
+S934;0;Not Significant Trauma;Sprain and strain of ankle 
+S935;0;Not Significant Trauma;Sprain and strain of toe(s) 
+S936;0;Not Significant Trauma;Sprain and strain of other and unspecified parts of foot 
+S940;0;Not Significant Trauma;Injury of lateral plantar nerve 
+S941;0;Not Significant Trauma;Injury of medial plantar nerve 
+S942;8;Significant Trauma of the Lower Limb;Injury of deep peroneal nerve at ankle and foot level 
+S943;0;Not Significant Trauma;Injury of cutaneous sensory nerve at ankle and foot level 
+S947;0;Not Significant Trauma;Injury of multiple nerves at ankle and foot level 
+S948;0;Not Significant Trauma;Injury of other nerves at ankle and foot level 
+S949;0;Not Significant Trauma;Injury of unspecified nerve at ankle and foot level 
+S950;0;Not Significant Trauma;Injury of dorsal artery of foot 
+S951;0;Not Significant Trauma;Injury of plantar artery of foot 
+S952;0;Not Significant Trauma;Injury of dorsal vein of foot 
+S957;0;Not Significant Trauma;Injury of multiple blood vessels at ankle and foot level 
+S958;0;Not Significant Trauma;Injury of other blood vessels at ankle and foot level 
+S959;0;Not Significant Trauma;Injury of unspecified blood vessel at ankle and foot level 
+S960;0;Not Significant Trauma;Injury of muscle and tendon of long flexor muscle of toe at ankle and foot level 
+S961;0;Not Significant Trauma;Injury of muscle and tendon of long extensor muscle of toe at ankle and foot level 
+S962;0;Not Significant Trauma;Injury of intrinsic muscle and tendon at ankle and foot level 
+S967;0;Not Significant Trauma;Injury of multiple muscles and tendons at ankle and foot level 
+S968;0;Not Significant Trauma;Injury of other muscles and tendons at ankle and foot level 
+S969;0;Not Significant Trauma;Injury of unspecified muscle and tendon of ankle and foot 
+S970;0;Not Significant Trauma;Crushing injury of ankle 
+S971;0;Not Significant Trauma;Crushing injury of toe(s) 
+S978;0;Not Significant Trauma;Crushing injury of other parts of ankle and foot 
+S980;8;Significant Trauma of the Lower Limb;Traumatic amputation of foot at ankle level 
+S981;0;Not Significant Trauma;Traumatic amputation of one toe 
+S982;0;Not Significant Trauma;Traumatic amputation of two or more toes 
+S983;0;Not Significant Trauma;Traumatic amputation of other parts of foot 
+S984;0;Not Significant Trauma;Traumatic amputation of foot, level unspecified 
+S997;0;Not Significant Trauma;Multiple injuries of ankle and foot 
+S998;0;Not Significant Trauma;Other specified injuries of ankle and foot 
+S999;0;Not Significant Trauma;Unspecified injury of ankle and foot 
+T000;0;Not Significant Trauma;Superficial injuries involving head with neck 
+T001;0;Not Significant Trauma;Superficial injuries involving thorax with abdomen, lower back and pelvis 
+T002;0;Not Significant Trauma;Superficial injuries involving multiple regions of upper limb(s) 
+T003;0;Not Significant Trauma;Superficial injuries involving multiple regions of lower limb(s) 
+T006;0;Not Significant Trauma;Superficial injuries involving multiple regions of upper limb(s) with lower 
+T008;0;Not Significant Trauma;Superficial injuries involving other combinations of body regions 
+T009;0;Not Significant Trauma;Multiple superficial injuries, unspecified 
+T010;0;Not Significant Trauma;Open wounds involving head with neck 
+T011;3;Significant Abdominal Trauma;Open wounds involving thorax with abdomen, lower back and pelvis 
+T012;0;Not Significant Trauma;Open wounds involving multiple regions of upper limb(s) 
+T013;0;Not Significant Trauma;Open wounds involving multiple regions of lower limb(s) 
+T016;0;Not Significant Trauma;Open wounds involving multiple regions of upper limb(s) with lower limb(s) 
+T018;0;Not Significant Trauma;Open wounds involving other combinations of body regions 
+T019;0;Not Significant Trauma;Multiple open wounds, unspecified 
+T020;0;Not Significant Trauma;Fractures involving head with neck 
+T0200;0;Not Significant Trauma;Fractures involving head with neck: closed 
+T0201;0;Not Significant Trauma;Fractures involving head with neck: open 
+T021;0;Not Significant Trauma;Fractures involving thorax with lower back and pelvis 
+T0210;0;Not Significant Trauma;Fractures involving thorax with lower back and pelvis: closed 
+T0211;0;Not Significant Trauma;Fractures involving thorax with lower back and pelvis: open 
+T022;0;Not Significant Trauma;Fractures involving multiple regions of one upper limb 
+T0220;0;Not Significant Trauma;Fractures involving multiple regions of one upper limb: closed 
+T0221;7;Significant Trauma of the Upper Limb;Fractures involving multiple regions of one upper limb: open 
+T023;0;Not Significant Trauma;Fractures involving multiple regions of one lower limb 
+T0230;0;Not Significant Trauma;Fractures involving multiple regions of one lower limb: closed 
+T0231;8;Significant Trauma of the Lower Limb;Fractures involving multiple regions of one lower limb: open 
+T024;0;Not Significant Trauma;Fractures involving multiple regions of both upper limbs 
+T0240;0;Not Significant Trauma;Fractures involving multiple regions of both upper limbs: closed 
+T0241;7;Significant Trauma of the Upper Limb;Fractures involving multiple regions of both upper limbs: open 
+T025;8;Significant Trauma of the Lower Limb;Fractures involving multiple regions of both lower limbs 
+T0250;8;Significant Trauma of the Lower Limb;Fractures involving multiple regions of both lower limbs: closed 
+T0251;8;Significant Trauma of the Lower Limb;Fractures involving multiple regions of both lower limbs: open 
+T026;8;Significant Trauma of the Lower Limb;Fractures involving multiple regions of upper limb(s) with lower limb(s) 
+T0260;8;Significant Trauma of the Lower Limb;Fractures involving multiple regions of upper limb(s) with lower limb(s): closed 
+T0261;8;Significant Trauma of the Lower Limb;Fractures involving multiple regions of upper limb(s) with lower limb(s): open 
+T027;8;Significant Trauma of the Lower Limb;Fractures involving thorax with lower back and pelvis with limb(s) 
+T0270;8;Significant Trauma of the Lower Limb;Fractures involving thorax with lower back and pelvis with limb(s): closed 
+T0271;8;Significant Trauma of the Lower Limb;Fractures involving thorax with lower back and pelvis with limb(s): open 
+T028;8;Significant Trauma of the Lower Limb;Fractures involving other combinations of body regions 
+T0280;8;Significant Trauma of the Lower Limb;Fractures involving other combinations of body regions: closed 
+T0281;8;Significant Trauma of the Lower Limb;Fractures involving other combinations of body regions: open 
+T029;0;Not Significant Trauma;Multiple fractures, unspecified 
+T0290;0;Not Significant Trauma;Multiple fractures, unspecified: closed 
+T0291;0;Not Significant Trauma;Multiple fractures, unspecified: open 
+T030;0;Not Significant Trauma;Dislocations, sprains and strains involving head with neck 
+T031;0;Not Significant Trauma;Dislocations, sprains and strains involving thorax with lower back and pelvis 
+T032;0;Not Significant Trauma;Dislocations, sprains and strains involving multiple regions of upper limb(s) 
+T033;0;Not Significant Trauma;Dislocations, sprains and strains involving multiple regions of lower limb(s) 
+T034;0;Not Significant Trauma;Dislocations, sprains and strains involving multiple regions of upper limb(s) with lower limb(s) 
+T038;0;Not Significant Trauma;Dislocations, sprains and strains involving other combinations of body regions 
+T039;0;Not Significant Trauma;Multiple dislocations, sprains and strains, unspecified 
+T040;0;Not Significant Trauma;Crushing injuries involving head with neck 
+T041;0;Not Significant Trauma;Crushing injuries involving thorax with abdomen, lower back and pelvis 
+T042;0;Not Significant Trauma;Crushing injuries involving multiple regions of upper limb(s) 
+T043;0;Not Significant Trauma;Crushing injuries involving multiple regions of lower limb(s) 
+T044;0;Not Significant Trauma;Crushing injuries involving multiple regions of upper limb(s), with lower 
+T047;0;Not Significant Trauma;Crushing injuries of thorax with abdomen, lower back and pelvis with limb(s) 
+T048;0;Not Significant Trauma;Crushing injuries involving other combinations of body regions 
+T049;0;Not Significant Trauma;Multiple crushing injuries, unspecified 
+T050;7;Significant Trauma of the Upper Limb;Traumatic amputation of both hands 
+T051;7;Significant Trauma of the Upper Limb;Traumatic amputation of one hand and other arm [any level, except hand] 
+T052;7;Significant Trauma of the Upper Limb;Traumatic amputation of both arms [any level] 
+T053;8;Significant Trauma of the Lower Limb;Traumatic amputation of both feet 
+T054;8;Significant Trauma of the Lower Limb;Traumatic amputation of one foot and other leg [any level, except foot] 
+T055;8;Significant Trauma of the Lower Limb;Traumatic amputation of both legs [any level] 
+T056;8;Significant Trauma of the Lower Limb;Traumatic amputation of upper and lower limbs, any combination [any level] 
+T058;8;Significant Trauma of the Lower Limb;Traumatic amputations involving other combinations of body regions 
+T059;0;Not Significant Trauma;Multiple traumatic amputations, unspecified 
+T060;0;Not Significant Trauma;Injuries of brain and cranial nerves with injuries of nerves and spinal cord at neck level 
+T061;0;Not Significant Trauma;Injuries of nerves and spinal cord involving other multiple body regions 
+T062;0;Not Significant Trauma;Injuries of nerves involving multiple body regions 
+T063;0;Not Significant Trauma;Injuries of blood vessels involving multiple body regions 
+T064;0;Not Significant Trauma;Injuries of muscles and tendons involving multiple body regions 
+T065;0;Not Significant Trauma;Injuries of intrathoracic organs with intraabdominal and pelvic organs 
+T068;0;Not Significant Trauma;Other specified injuries involving multiple body regions 
+T07;0;Not Significant Trauma;Unspecified multiple injuries 
+T08;0;Not Significant Trauma;Fracture of spine, level unspecified 
+T080;0;Not Significant Trauma;Fracture of spine, level unspecified: closed 
+T081;0;Not Significant Trauma;Fracture of spine, level unspecified: open 
+T090;0;Not Significant Trauma;Superficial injury of trunk, level unspecified 
+T091;0;Not Significant Trauma;Open wound of trunk, level unspecified 
+T092;0;Not Significant Trauma;Dislocation, sprain and strain of unspecified joint and ligament of trunk 
+T093;0;Not Significant Trauma;Injury of spinal cord, level unspecified 
+T094;0;Not Significant Trauma;Injury of unspecified nerve, spinal nerve root and plexus of trunk 
+T095;0;Not Significant Trauma;Injury of unspecified muscle and tendon of trunk 
+T096;0;Not Significant Trauma;Traumatic amputation of trunk, level unspecified 
+T098;0;Not Significant Trauma;Other specified injuries of trunk, level unspecified 
+T099;0;Not Significant Trauma;Unspecified injury of trunk, level unspecified 
+T10;0;Not Significant Trauma;Fracture of upper limb, level unspecified 
+T100;0;Not Significant Trauma;Fracture of upper limb, level unspecified: closed 
+T101;0;Not Significant Trauma;Fracture of upper limb, level unspecified: open 
+T110;0;Not Significant Trauma;Superficial injury of arm, level unspecified 
+T111;0;Not Significant Trauma;Open wound of upper limb, level unspecified 
+T112;0;Not Significant Trauma;Dislocation, sprain and strain of unspecified joint and ligament of upper limb, level unspecified 
+T113;0;Not Significant Trauma;Injury of unspecified nerve of upper limb, level unspecified 
+T114;0;Not Significant Trauma;Injury of unspecified blood vessel of upper limb, level unspecified 
+T115;0;Not Significant Trauma;Injury of unspecified muscle and tendon of upper limb, level unspecified 
+T116;0;Not Significant Trauma;Traumatic amputation of upper limb, level unspecified 
+T118;0;Not Significant Trauma;Other specified injuries of upper limb, level unspecified 
+T119;0;Not Significant Trauma;Unspecified injury of upper limb, level unspecified 
+T12;0;Not Significant Trauma;Fracture of lower limb, level unspecified 
+T120;0;Not Significant Trauma;Fracture of lower limb, level unspecified: closed 
+T121;0;Not Significant Trauma;Fracture of lower limb, level unspecified: open 
+T130;0;Not Significant Trauma;Superficial injury of lower limb, level unspecified 
+T131;0;Not Significant Trauma;Open wound of lower limb, level unspecified 
+T132;0;Not Significant Trauma;Dislocation, sprain and strain of unspecified joint and ligament of lower limb, level unspecified 
+T133;0;Not Significant Trauma;Injury of unspecified nerve of lower limb, level unspecified 
+T134;0;Not Significant Trauma;Injury of unspecified blood vessel of lower limb, level unspecified 
+T135;0;Not Significant Trauma;Injury of unspecified muscle and tendon of lower limb, level unspecified 
+T136;0;Not Significant Trauma;Traumatic amputation of lower limb, level unspecified 
+T138;0;Not Significant Trauma;Other specified injuries of lower limb, level unspecified 
+T139;0;Not Significant Trauma;Unspecified injury of lower limb, level unspecified 
+T140;0;Not Significant Trauma;Superficial injury of unspecified body region 
+T141;0;Not Significant Trauma;Open wound of unspecified body region 
+T142;0;Not Significant Trauma;Fracture of unspecified body region 
+T1420;0;Not Significant Trauma;Fracture of unspecified body region: closed 
+T1421;0;Not Significant Trauma;Fracture of unspecified body region: open 
+T143;0;Not Significant Trauma;Dislocation, sprain and strain of unspecified body region 
+T144;0;Not Significant Trauma;Injury of nerve(s) of unspecified body region 
+T145;0;Not Significant Trauma;Injury of blood vessel(s) of unspecified body region 
+T146;0;Not Significant Trauma;Injury of muscles and tendons of unspecified body region 
+T147;0;Not Significant Trauma;Crushing injury and traumatic amputation of unspecified body region 
+T148;0;Not Significant Trauma;Other injuries of unspecified body region 
+T149;0;Not Significant Trauma;Injury, unspecified 
+T790;2;Significant Chest Trauma;Air embolism (traumatic) 
+T791;2;Significant Chest Trauma;Fat embolism (traumatic) 
+T792;0;Not Significant Trauma;Traumatic secondary and recurrent haemorrhage 
+T793;0;Not Significant Trauma;Post-traumatic wound infection, not elsewhere classified 
+T794;0;Not Significant Trauma;Traumatic shock 
+T795;0;Not Significant Trauma;Traumatic anuria 
+T796;7;Significant Trauma of the Upper Limb;Traumatic ischaemia of muscle 
+T797;0;Not Significant Trauma;Traumatic subcutaneous emphysema 
+T798;0;Not Significant Trauma;Other early complications of trauma 
+T799;0;Not Significant Trauma;Unspecified early complication of trauma 

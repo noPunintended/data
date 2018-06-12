@@ -1,0 +1,62 @@
+2121 Rhinoscopy
+2911 Pharyngoscopy
+3141 Tracheoscopy thru stoma
+3142 Larygnoscopy/tracheoscop
+3143 Closed biopsy larynx
+3144 Closed biopsy trachea
+3201 Endosc destruc bronc les
+3227 Bronchosc thermpl abl aw m
+3228 Endosc destruc lung les
+3321 Bronchoscopy thru stoma
+3322 Fiber-optic bronchoscopy
+3323 Other bronchoscopy
+3324 Closed bronchial biopsy
+3372 Endo pulm arwy flow msmt
+4222 Esophagoscopy thru stoma
+4223 Esophagoscopy NEC
+4224 Closed bx of esophagus
+4233 Endosc destruc esoph les
+4341 Endosc destr stomach les
+4412 Gastroscopy thru stoma
+4413 Gastroscopy NEC
+4414 Closed gastric biopsy
+4512 Endosc sm bowel thru st
+4513 Sm bowel endoscopy NEC
+4514 Clos small bowel biopsy
+4516 Egd with closed biopsy
+4522 Endosc lg bowel thru st
+4523 Colonoscopy
+4524 Flexible sigmoidoscopy
+4525 Clos large bowel biopsy
+4530 Endosc destru duoden les
+4542 Endo polpectomy lrge int
+4543 Endosc destru lg int les
+4822 Proctosigmoidosc thru st
+4823 Rigid proctosigmoidoscpy
+4824 Closed rectal biopsy
+4836 Polypectomy of rectum
+4921 Anoscopy
+4931 Endosc destruc anus les
+5110 Endosc retro cholangiopa
+5111 Endoscop retro cholangio
+5114 Clo endosc bx bile duct
+5164 Endosc destru bile les
+5184 Endosc dilation ampulla
+5185 Endosc sphincterotomy
+5186 Endosc inser nasobil tub
+5187 Endosc inser stent bile
+5213 Endosc retro pancreatog
+5214 Clo endosc bx pancre duc
+5221 Endosc destr pancrea les
+5293 Endosc inser panc stent
+5297 Endosc inser nasopan tub
+5298 Endosc dil pancreat duct
+5521 Nephroscopy
+5522 Pyeloscopy
+5631 Ureteroscopy
+5731 Cystoscopy thru stoma
+5732 Cystoscopy NEC
+5822 Urethroscopy NEC
+6812 Hysteroscopy
+7021 Vaginoscopy
+7022 Culdoscopy
